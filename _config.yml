@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jagan's Personal web page"
+title                    : "Jagan's web page"
 title_separator          : "-"
 name                     : &name "Jaganmohan Chandrasekaran"
 description              : &description "Ph.D. Candidate at CSE @ UTA"
