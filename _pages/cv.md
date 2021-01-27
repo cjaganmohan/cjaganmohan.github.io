@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. in Information Technologu, Anna University,Chennai,India, 2008
+* M.S. in Computer Science, The University of Texas at Arlington,Texas,USA, 2015
+  * Thesis: ***Evaluating the effectiveness of BEN in localizing different types of software fault***
+* Ph.D in Computer Science, The University of Texas at Arlington,Texas,USA, 2021 (expected)
+  * Dissertation Title: ***Testing AI-Based Software Systems***
 
 Work experience
 ======
