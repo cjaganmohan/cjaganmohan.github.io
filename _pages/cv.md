@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, The University of Texas at Arlington,Texas,USA, 2021 (expected)
+* Ph.D in Computer Science, The University of Texas at Arlington,USA, 2021 (expected)
   * Dissertation Title: ***Testing AI-Based Software Systems***
-* M.S. in Computer Science, The University of Texas at Arlington,Texas,USA, 2015
+* M.S. in Computer Science, The University of Texas at Arlington,USA, 2015
   * Thesis: ***Evaluating the effectiveness of BEN in localizing different types of software fault***
-* B.Tech. in Information Technologu, Anna University,Chennai,India, 2008
+* B.Tech. in Information Technologu, Anna University,India, 2008
 
 Work experience
 ======
