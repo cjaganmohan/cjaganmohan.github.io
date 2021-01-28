@@ -3,9 +3,6 @@ layout: archive
 title: "Research"
 excerpt: "Research"
 permalink: /research/
-redirect_from: 
-  - /research/
-  - /research.html
 author_profile: true
 ---
 
