@@ -21,5 +21,5 @@ My work so far is focused on the following areas:
     * Develop ***a framework to debug big data applications***
 
 ## Current Project
-My **current project** focuses on developing an explainable AI (XAI) tool that shall produce explanations for decisions made by Deep Neural Network (DNN) models. The explanation can help engineers determine the cause of incorrect decisions of an DNN model (i.e., debugging an DNN model). Conceptually, deriving an explanation for a model’s decision (XAI) is similar to software fault localization, a well-studied problem in software engineering.  In this project, I investigate how to ***use/adopt existing software fault localization techniques and produce explanations for decisions made by DNN models***. 
+My current project focuses on developing an explainable AI (XAI) tool that shall produce explanations for decisions made by Deep Neural Network (DNN) models. The explanation can help engineers determine the cause of incorrect decisions of an DNN model (i.e., debugging an DNN model). Conceptually, deriving an explanation for a model’s decision (XAI) is similar to software fault localization, a well-studied problem in software engineering.  In this project, I investigate how to ***use/adopt existing software fault localization techniques and produce explanations for decisions made by DNN models***. 
 
