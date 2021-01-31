@@ -12,13 +12,13 @@ AI-based software systems are increasingly used across application domains. Howe
 
 My work so far is focused on the following areas: 
 * **Test input generation:**
-   * Generate test inputs (using combinatorial testing) to ***test five classical machine learning algorithms*** 
+   * Generate t-way test inputs (using combinatorial testing) to ***test five classical machine learning algorithms*** 
    * Generate synthetic image frames to ***test DNN models*** used in ***Autonomous driving systems*** (under review)
 * **Test cost reduction:**
     * Empirically analyze the ***effect of using sampled datasets to test supervised learning algorithms***
 * **Debugging:**
-    * Develop ***a framework to debug big data applications***
     * Develop a ***model-agnostic, post-hoc XAI-tool*** that produce *counterfactual explanations* for Image based classifiers.
+    * Develop ***a framework to debug big data applications***
 
 ## Current Project
 My **current project** focuses on developing an explainable AI (XAI) tool that shall produce explanations for decisions made by Deep Neural Network (DNN) models. The explanation can help engineers determine the cause of incorrect decisions of an DNN model (i.e., debugging an DNN model). Conceptually, deriving an explanation for a model’s decision (XAI) is similar to software fault localization, a well-studied problem in software engineering.  In this project, I investigate how to ***use/adopt existing software fault localization techniques and produce explanations for decisions made by ML models***. 
