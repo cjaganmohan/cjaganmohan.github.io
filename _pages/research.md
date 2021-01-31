@@ -11,9 +11,9 @@ author_profile: true
 AI-based software systems are increasingly used across application domains. However, one of the key challenges continues to be the reliability and correctness of AI-based systems. At the core of AI-based software systems is a machine learning (ML) model that is used to perform tasks such as classification and prediction. Fundamentally, traditional software applications have a deterministic logic written by humans with a pre-defined output. Compared to this, ML models derive their decision logic based on a dataset, and in most cases, they do not have a pre-defined output. Thus, existing testing techniques cannot be directly applied to test AI-based applications. The broader goal of my Ph.D. work is to ***develop methodologies for testing AI-based software systems***.  
 
 My work so far is focused on the following areas: 
-* **Test input generation:** 
- * Generate test inputs (using combinatorial testing) to ***test five classical machine learning algorithms*** 
- * Generate synthetic image frames to ***test DNN models*** used in ***Autonomous driving systems*** (under review)
+* **Test input generation:**
+   * Generate test inputs (using combinatorial testing) to ***test five classical machine learning algorithms*** 
+   * Generate synthetic image frames to ***test DNN models*** used in ***Autonomous driving systems*** (under review)
 * **Test cost reduction:**
     * Empirically analyze the ***effect of using sampled datasets to test supervised learning algorithms***
 * **Debugging:**
