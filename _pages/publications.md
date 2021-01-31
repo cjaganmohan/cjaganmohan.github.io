@@ -10,5 +10,5 @@ author_profile: true
 * **Jaganmohan Chandrasekaran** , Huadong Feng, Yu Lei, D. Richard Kuhn, and Raghu Kacker. ***Applying Combinatorial Testing to Data Mining Algorithms***. In Software Testing, Verification and Validation Workshops (ICSTW), 2017 IEEE International Conference on, pp. 253-261. IEEE, 2017.
 * Huadong Feng, **Jaganmohan Chandrasekaran** , Yu Lei, D. Richard Kuhn, and Raghu Kacker. ***A Method-Level Test Generation Framework for Debugging Big Data Applications***. 2018 IEEE International Conference on Big Data (Big Data) pp. 221-230. IEEE, 2018.
 * **Jaganmohan Chandrasekaran** , Huadong Feng, Yu Lei, Raghu Kacker, and D. Richard Kuhn. ***Effectiveness of dataset reduction in testing machine learning algorithms***. In 2020 IEEE International Conference On Artificial Intelligence Testing (AITest) (pp. 133-140). IEEE.
-* **Jaganmohan Chandrasekaran** ,Yu Lei, Raghu Kacker, and D. Richard Kuhn. ***A Combinatorial Approach to Testing Deep Neural Network-based Autonomous Driving Systems*** (Under Review)
-* **Jaganmohan Chandrasekaran** ,Yu Lei, Raghu Kacker, and D. Richard Kuhn. ***A Combinatorial Approach to Explaining Image Classifiers*** (Under Review)
+* **Jaganmohan Chandrasekaran** ,Yu Lei, Raghu Kacker, and D. Richard Kuhn. ***A Combinatorial Approach to Testing Deep Neural Network-based Autonomous Driving Systems*** **(Under Review)**
+* **Jaganmohan Chandrasekaran** ,Yu Lei, Raghu Kacker, and D. Richard Kuhn. ***A Combinatorial Approach to Explaining Image Classifiers*** **(Under Review)**
