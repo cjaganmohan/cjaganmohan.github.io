@@ -9,17 +9,18 @@ main:
     
   - title: "Publications"
     url: /publications/
-        
-  - #title: "Blog Posts"
-    #url: /year-archive/
+
   - title: "CV"
     url: /cv/
-    
-  - #title: "Guide"
-    #url: /markdown/
+
   - title: "Contact"
     url: /contact/
     
   - #title: "Education"
     #url: /education/    
-
+          
+  - #title: "Blog Posts"
+    #url: /year-archive/
+    
+  - #title: "Guide"
+    #url: /markdown/
