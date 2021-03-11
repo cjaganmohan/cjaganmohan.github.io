@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
 * Ph.D in Computer Science, The University of Texas at Arlington,USA, 2021 (expected)
@@ -16,6 +14,7 @@ Education
 * M.S. in Computer Science, The University of Texas at Arlington,USA, 2015
   * Thesis: ***Evaluating the effectiveness of BEN in localizing different types of software fault***
 * B.Tech. in Information Technologu, Anna University,India, 2008
+
 
 Work experience
 ======
@@ -59,3 +58,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+{% endcomment %}
