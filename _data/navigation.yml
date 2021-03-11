@@ -11,7 +11,7 @@ main:
     url: /publications/
 
   - title: "CV"
-    url: /files/cv.pdf
+    url: /cv/
 
   - title: "Contact"
     url: /contact/
