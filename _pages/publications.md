@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+* **Jaganmohan Chandrasekaran** ,Ankita Ramjibhai Patel, Yu Lei, Raghu Kacker, and D. Richard Kuhn. ***Evaluation of T-Way Testing of DNNs in Autonomous Driving Systems*** In 2021 IEEE International Conference On Artificial Intelligence Testing (AITest). IEEE. -- [Preprint](https://cjaganmohan.github.io/files/Evaluation_of_T-Way_Testing_of_DNNs_in_Autonomous_Driving_Systems_pre_print_AITest20212021.pdf)
 * **Jaganmohan Chandrasekaran** ,Yu Lei, Raghu Kacker, and D. Richard Kuhn. ***A Combinatorial Approach to Explaining Image Classifiers*** In 2021 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW) (pp. 35-43). IEEE. -- [Preprint](https://cjaganmohan.github.io/files/XAI_Tool_pre_print_IWCT_2021.pdf)
 * **Jaganmohan Chandrasekaran** ,Yu Lei, Raghu Kacker, and D. Richard Kuhn. ***A Combinatorial Approach to Testing Deep Neural Network-based Autonomous Driving Systems*** In 2021 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW) (pp. 57-66). IEEE. -- [Preprint](https://cjaganmohan.github.io/files/Testing_DNN_pre_print_IWCT_2021.pdf)
 * **Jaganmohan Chandrasekaran** , Huadong Feng, Yu Lei, Raghu Kacker, and D. Richard Kuhn. ***Effectiveness of dataset reduction in testing machine learning algorithms***. In 2020 IEEE International Conference On Artificial Intelligence Testing (AITest) (pp. 133-140). IEEE. -- [Preprint](https://cjaganmohan.github.io/files/Effectiveness_of_dataset_reduction_pre_print_AITest2020.pdf)
