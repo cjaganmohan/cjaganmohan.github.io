@@ -9,6 +9,8 @@ author_profile: true
 
 * **Postdoctoral Research Associate - AI Assurance**
     * Oct 2021 - Current
+* **Research Associate - UT Arlington*
+    * Oct 2021
 * **Graduate Research Assistant**
     * Fall 2020 - Spring 2021
 * **Graduate Teaching Assistant**
