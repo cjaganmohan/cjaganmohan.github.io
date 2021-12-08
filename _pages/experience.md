@@ -7,8 +7,10 @@ author_profile: true
 
 ## Work Experience
 
+* **Postdoctoral Research Associate - AI Assurance**
+    * Oct 2021 - Current
 * **Graduate Research Assistant**
-    * Fall 2020 - Current
+    * Fall 2020 - Spring 2021
 * **Graduate Teaching Assistant**
     * TA for CSE 5325:***Software Engineering II*** - Fall 2014
     * TA for CSE 5329:***Software Team Project II:*** - Spring 2015
