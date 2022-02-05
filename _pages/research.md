@@ -10,7 +10,7 @@ author_profile: true
 ## Research Statement
 AI-based software systems are increasingly used across application domains. However, one of the critical challenges continues to be the reliability and correctness of AI-based systems. Unlike traditional software systems where humans write the logic (deterministic), AI-based systems derive their logic based on a dataset (data-driven) and often exhibit stochastic behavior. Thus, existing testing techniques cannot be directly used to test AI-based software systems. 
 
-The broader goal of my research work is ***AI Assurance***. My current research focuses on studying assurance challenges (**Explainability, Fairness, Generalizability, and Trustworthiness**) in the AI-based software sytems and developing approaches to address those challenges. 
+The broader goal of my research work is ***AI Assurance***. My current research focuses on studying assurance challenges (**Explainability, Fairness, Generalizability, and Trustworthiness**) in AI-based software systems and developing approaches to address those challenges. 
 
 
 ## Current Project
