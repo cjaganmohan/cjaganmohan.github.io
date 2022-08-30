@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Jaganmohan Chandrasekaran, PhD"
 title_separator          : "-"
 name                     : &name "Jaganmohan Chandrasekaran"
 description              : &description "Postdoc at CCI, Virginia Tech"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jaganmohan Chandrasekaran"
-  avatar           : "jagan_headshot.jpeg"
+  avatar           : "Jagan_headshot_2022CyberCamp.jpg"
   bio              : "Postdoctoral Associate - AI | Commonwealth Cyber Initiative | USA"
   location         : "Arlington, Virginia"
   employer         :
