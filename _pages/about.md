@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-<p style='text-align: justify;'>
+<p style='text-align: justify'>
 Hi There! I am Jagan. I am postdoctoral associate at [Commonwealth Cyber Initiative (CCI)](https://cyberinitiative.org/research/ai-assurance.html), Virginia Tech. I am working with [Prof. Feras Batarseh](http://batarseh.blogspot.com/) and [Prof. Laura Freeman](https://www.stat.vt.edu/people/stat-faculty/freeman-laura.html). 
 
 My research is at the intersection of Software Engineering (SE) and Artificial Intelligence (AI), focusing on addressing the software engineering challenges in the AI system development lifecycle. My current research aims to develop AI assurance approaches for a reliable and trustworthy AI system.
