@@ -7,24 +7,29 @@ author_profile: true
 
 
 
-## Research Statement
-AI-based software systems are increasingly used across application domains. However, one of the critical challenges continues to be the reliability and correctness of AI-based systems. Unlike traditional software systems where humans write the logic (deterministic), AI-based systems derive their logic based on a dataset (data-driven) and often exhibit stochastic behavior. Thus, existing testing techniques cannot be directly used to test AI-based software systems. 
-
-The broader goal of my research work is ***AI Assurance***. My current research focuses on studying assurance challenges (**Explainability, Fairness, Generalizability, and Trustworthiness**) in AI-based software systems and developing approaches to address those challenges. 
+## Research Interest
+  * **Software Engineering Challenges for AI-enabled systems**
+  * **Testing and Debugging of Machine Learning (ML) and Reinforcement Learning (RL) models**
+  * **AI Assurance:** Explainability, Fairness, Generalizability
 
 
 ## Current Project
 ### Explainability
 My current project focuses on developing an approach that uses ***Causality for Explainable AI***. 
 
-### Fairness
-This project proposes a ***model-agnostic approach*** to perform ***fairness testing*** of ML models. Specifically, we present a combinatorial approach to test pre-trained ML models for individual discrimination (Under Review).
+discrimination (Under Review).
 
 
 ## Past Projects (most-recent)
 
-### Explainable AI using a Software Fault Localization approach
+### Fairness Testing
+Machine Learning (ML) models derive their decision logic from a dataset. Bias from the data could be introduced to the model across the ML model development lifecycle. This project presents a ***model-agnostic approach*** to perform ***fairness testing*** of ML models. We present a combinatorial approach to test pre-trained ML models for individual fairness violations. 
+
+### Explainable AI (XAI)
+
+#### Adopting a software fault localization approach for XAI
 To develop an explainable AI (XAI) tool that shall produce explanations for decisions made by Deep Neural Network (DNN) models. The explanation can help engineers determine the cause of incorrect decisions of an DNN model (i.e., debugging an DNN model). Conceptually, **deriving a local explanation** for a model’s decision (XAI) is **similar to software fault localization**, a well-studied problem in software engineering.  In this project, I proposed an approach that adopts an existing software fault localization technique and produce explanations for decisions made by DNN models. -- [(preprint)](https://cjaganmohan.github.io/files/XAI_Tool_pre_print_IWCT_2021.pdf), [(video)](https://www.youtube.com/watch?v=uGdJnsvC7m4) 
+
 
 ### Test Input Generation for Testing DNN models
 Generating data to test AI systems, particularly for image-based AI systems such as autonomous driving systems, is a time-consuming and expensive process. In this project we propose a combinatorial approach to generate test data (images) to test Deep Neural Network (DNN) models used in autonomous driving cars. Each test input represents a combination of image transformations, and can be used to produce a test image. We conducted an experimental evaluation of our approach on three DNN models that are used in the Udacity challenge. Results suggest that combinatorial testing can be effectively applied, and the proposed approach detects a significant number of inconsistent (or undesired) behaviors in pre-trained DNN models developed to predict the steering angle of a car.  -- [(preprint)](https://cjaganmohan.github.io/files/Testing_DNN_pre_print_IWCT_2021.pdf), [(video)](https://www.youtube.com/watch?v=978CwhOWG54)
