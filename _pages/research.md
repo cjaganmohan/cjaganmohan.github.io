@@ -8,27 +8,30 @@ author_profile: true
 
 
 ## Research Interest
-  * **Software Engineering Challenges for AI-enabled systems**
+  * **Software Engineering for AI-enabled systems**
   * **Testing and Debugging of Machine Learning (ML) and Reinforcement Learning (RL) models**
   * **AI Assurance:** Explainability, Fairness, Generalizability
 
 
-## Current Project
-### Explainability
-My current project focuses on developing an approach that uses ***Causality for Explainable AI***. 
+## Current Projects
 
-discrimination (Under Review).
+### AI for Public Policy
+
+### 
 
 
 ## Past Projects (most-recent)
 
 ### Fairness Testing
-Machine Learning (ML) models derive their decision logic from a dataset. Bias from the data could be introduced to the model across the ML model development lifecycle. This project presents a ***model-agnostic approach*** to perform ***fairness testing*** of ML models. We present a combinatorial approach to test pre-trained ML models for individual fairness violations. 
+Machine Learning (ML) models derive their decision logic from a dataset. Bias from the dataset could be introduced to the model across the ML model development lifecycle. This project presents a ***model-agnostic approach*** to perform ***fairness testing*** of ML models. We presented a combinatorial approach to test pre-trained ML models for individual fairness violations. 
 
 ### Explainable AI (XAI)
 
 #### Adopting a software fault localization approach for XAI
 To develop an explainable AI (XAI) tool that shall produce explanations for decisions made by Deep Neural Network (DNN) models. The explanation can help engineers determine the cause of incorrect decisions of an DNN model (i.e., debugging an DNN model). Conceptually, **deriving a local explanation** for a model’s decision (XAI) is **similar to software fault localization**, a well-studied problem in software engineering.  In this project, I proposed an approach that adopts an existing software fault localization technique and produce explanations for decisions made by DNN models. -- [(preprint)](https://cjaganmohan.github.io/files/XAI_Tool_pre_print_IWCT_2021.pdf), [(video)](https://www.youtube.com/watch?v=uGdJnsvC7m4) 
+
+#### Causality based approach for XAI
+
 
 
 ### Test Input Generation for Testing DNN models
