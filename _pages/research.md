@@ -6,23 +6,22 @@ author_profile: true
 ---
 
 
-
-## Research Interest
+# Research Interests
   * **Software Engineering for AI-enabled systems**
   * **Testing and Debugging of Machine Learning (ML) and Reinforcement Learning (RL) models**
   * **AI Assurance:** Explainability, Fairness, Generalizability
 
 
-## Current Projects
+# Current Projects
 
 ### AI for Public Policy
 
 ### 
 
 
-## Past Projects (most-recent)
+# Past Projects (most-recent)
 
-### Fairness Testing
+## Fairness Testing
 Machine Learning (ML) models derive their decision logic from a dataset. Bias from the dataset could be introduced to the model across the ML model development lifecycle. This project presents a ***model-agnostic approach*** to perform ***fairness testing*** of ML models. We presented a combinatorial approach to test pre-trained ML models for individual fairness violations. 
 
 ### Explainable AI (XAI)
