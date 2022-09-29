@@ -11,8 +11,10 @@ redirect_from:
 
 Hi There! I am ***Jagan***. I am postdoctoral associate at [Commonwealth Cyber Initiative (CCI)](https://cyberinitiative.org/research/ai-assurance.html), Virginia Tech. I am working with [Prof. Feras Batarseh](http://batarseh.blogspot.com/) and [Prof. Laura Freeman](https://www.stat.vt.edu/people/stat-faculty/freeman-laura.html). 
 
-***Research Interests***
-
+# Research Interests
+  * **Software Engineering for AI-enabled systems**
+  * **Testing and Debugging of Machine Learning (ML) and Reinforcement Learning (RL) models**
+  * **AI Assurance:** Explainability, Fairness, Generalizability
 
 
 In Summer 2021, I earned my PhD from the [Department of Computer Science and Engineering](http://cse.uta.edu/) at the [University of Texas at Arlington](http://www.uta.edu/uta/). My advisor is [Prof. Jeff Lei](https://mentis.uta.edu/explore/profile/yu-lei). Prior to that, I earned my *M.S. in Computer Science* from the University of Texas at Arlington in 2015, and my B.Tech degree in Information Technology in 2008. Prior joining the graduate school, I was working as an Analyst Programmer from 2009 to 2012.
