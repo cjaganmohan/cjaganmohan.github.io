@@ -6,11 +6,8 @@ author_profile: true
 ---
 
 
-# Research Interests
-  * **Software Engineering for AI-enabled systems**
-  * **Testing and Debugging of Machine Learning (ML) and Reinforcement Learning (RL) models**
-  * **AI Assurance:** Explainability, Fairness, Generalizability
 
+My research is at the intersection of Software Engineering (SE) and Artificial Intelligence (AI), focusing on addressing the software engineeringchallenges in the AI system development lifecycle. My current research aims to develop AI assurance approaches for a reliable and trustworthy AI system.
 
 # Current Projects
 
