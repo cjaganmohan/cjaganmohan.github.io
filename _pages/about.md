@@ -14,12 +14,12 @@ Hi There! I am ***Jagan***. I am postdoctoral associate at [Commonwealth Cyber I
 Earlier, I earned my PhD from the [Department of Computer Science and Engineering](http://cse.uta.edu/) at the [University of Texas at Arlington](http://www.uta.edu/uta/). My advisor is [Prof. Jeff Lei](https://mentis.uta.edu/explore/profile/yu-lei). Prior to that, I earned my *M.S. in Computer Science* from the University of Texas at Arlington in 2015, and my B.Tech degree in Information Technology in 2008. Before joining the graduate school, I was working as an Analyst Programmer from 2009 to 2012. You can find my CV here.
 
 
-### Research Interests
+## Research Interests
   * **Software Engineering for AI-enabled systems**
   * **Testing and Debugging of Machine Learning (ML) and Reinforcement Learning (RL) models**
   * **AI Assurance:** Explainability, Fairness, Generalizability
 
-### News
+## News
   * **September 2022:** Submission to Nature Water is rejected 👎. Thanks to the reviewers for their time and valuable feedback
   * **August 2022:** *DeepFarm: AI-Driven Management of Farm Production using Explainable Causality* accepted at STC 2022 :thumbsup:
   * **Auguest 2022:** Served on the STC Program Committee
