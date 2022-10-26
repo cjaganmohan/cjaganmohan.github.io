@@ -21,14 +21,14 @@ Earlier, I earned my PhD from the [Department of Computer Science and Engineerin
 
 ## News
   * **October 2022:** Our book *AI Assurance: Towards Trustworthy, Explainable, Safe, and Ethical AI* is published by Elsevier. My contribution is *Chapter 1: An Introduction to AI Assurance* Congratulations to all the contributors and special thanks to editors -- Dr. Feras A. Batarseh and Dr. Laura Freeman
-  * **September 2022:** *DeepH2O: Cyber Attacks Detection in Water Distribution Systems Using Deep Learning* rejected . Thanks to the reviewers for their time and valuable feedback
-  * **August 2022:** *DeepFarm: AI-Driven Management of Farm Production using Explainable Causality* accepted at STC 2022 :thumbsup:
+  * **September 2022:** *DeepH2O: Cyber Attacks Detection in Water Distribution Systems Using Deep Learning* rejected. Thanks to the reviewers for their time and valuable feedback
+  * **August 2022:** *DeepFarm: AI-Driven Management of Farm Production using Explainable Causality* accepted at STC 2022
   * **August 2022:** Program Committee, [International Workshop on Assured Autonomy, Artificial Intelligence and Machine Learning](https://issre2022.github.io/workshop_waam_page.html)
-  * **Auguest 2022:** Reviewer, [Software Technology Conference](https://www.ieee-stc.org)
+  * **Auguest 2022:** Reviewer, [Software Technology Conference, 2022](https://www.ieee-stc.org)
   * **July 2022:** Submitted a manuscript titled *DeepH2O: Cyber Attacks Detection in Water Distribution Systems Using Deep Learning* to Nature Water Journal
   * **June 2022:** *DeltaExplainer: A Software Debugging Approach to Generating Counterfactual Explanations* accepted at AITest 2022
   * **June 2022:** Submitted a manuscript *DeepFarm: AI-Driven Management of Farm Production using Explainable Causality* to STC 2022
-  * **June 2022:** Along with Dr. Feras Batarseh, hosted a one-day AI Assurance workshop at CCI CyberCamp
+  * **June 2022:** Along with Dr. Feras Batarseh, hosted a one-day AI Assurance workshop at [CCI CyberCamp](https://cyberinitiative.org/events-programs/2022/cybercamp-2022.html)
   * **May 2022:** Submitted a manuscript titled *DeltaExplainer: A Software Debugging Approach to Generating Counterfactual Explanations* to AITest 2022 
   * **May 2022:** Presented a 90 minute tutorial on AI Assurance at [FLAIRS 2022](https://www.flairs-35.info/tutorials)
   * **May 2022:** Program Committee, [AITest 2022](https://ieeetests.com)
