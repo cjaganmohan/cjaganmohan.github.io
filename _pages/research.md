@@ -7,19 +7,14 @@ author_profile: true
 
 
 
-My research is at the intersection of Software Engineering (SE) and Artificial Intelligence (AI), focusing on addressing the software engineeringchallenges in the AI system development lifecycle. My current research aims to develop AI assurance approaches for a reliable and trustworthy AI system.
-
-# Current Projects
-
-### AI for Public Policy
-
-### 
+My research is at the intersection of Software Engineering (SE) and Artificial Intelligence (AI), focusing on addressing the software engineering challenges in the AI system development lifecycle. My current research aims to develop AI assurance approaches for a reliable and trustworthy AI system.
 
 
-# Past Projects (most-recent)
+
+# Recent Projects 
 
 ## Fairness Testing
-Machine Learning (ML) models derive their decision logic from a dataset. Bias from the dataset could be introduced to the model across the ML model development lifecycle. This project presents a ***model-agnostic approach*** to perform ***fairness testing*** of ML models. We presented a combinatorial approach to test pre-trained ML models for individual fairness violations. 
+Machine Learning (ML) models derive their decision logic from a dataset. Bias from the dataset could be introduced to the model across the ML model development lifecycle. This project presents a ***model-agnostic approach*** to perform ***fairness testing*** of ML models. We presented a combinatorial approach to test pre-trained ML models for individual fairness violations. [(preprint)](https://cjaganmohan.github.io/files/A_Combinatorial_Approach_to_Fairness_Testing_of-Machine_Learning_Models.pdf)
 
 ## Explainable AI (XAI)
 
@@ -27,7 +22,7 @@ Machine Learning (ML) models derive their decision logic from a dataset. Bias fr
 To develop an explainable AI (XAI) tool that shall produce explanations for decisions made by Deep Neural Network (DNN) models. The explanation can help engineers determine the cause of incorrect decisions of an DNN model (i.e., debugging an DNN model). Conceptually, **deriving a local explanation** for a model’s decision (XAI) is **similar to software fault localization**, a well-studied problem in software engineering.  In this project, I proposed an approach that adopts an existing software fault localization technique and produce explanations for decisions made by DNN models. -- [(preprint)](https://cjaganmohan.github.io/files/XAI_Tool_pre_print_IWCT_2021.pdf), [(video)](https://www.youtube.com/watch?v=uGdJnsvC7m4) 
 
 ### Causality based approach for XAI
-
+A causality-based approach to explain model's outcomes. The presented approach aims to provide two sets of explanations: Given a model and its outcomes, the causal-inference-based approach can provide explanations of how different parameters contribute to a model's decision. Furthermore, the explanations generated using our approach enable practitioners to understand and quantify the impact of each parameter on the model's outcome.
 
 
 ## Test Input Generation for Testing DNN models
