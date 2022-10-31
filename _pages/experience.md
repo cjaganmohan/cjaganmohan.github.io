@@ -7,7 +7,7 @@ author_profile: true
 
 ## Work Experience
 
-* **Postdoctoral Research Associate - AI Assurance**
+* **Postdoctoral Associate - CCI, Virginia Tech**
     * Oct 2021 - Current
 * **Research Associate - UT Arlington**
     * Oct 2021
