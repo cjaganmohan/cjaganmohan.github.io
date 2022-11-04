@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi There! I am ***Jagan***. I am postdoctoral associate at [Commonwealth Cyber Initiative (CCI)](https://cyberinitiative.org/research/ai-assurance.html), Virginia Tech. I am working with [Prof. Feras Batarseh](http://batarseh.blogspot.com/) and my research focuses on AI Assurance.
+Hi There! I am ***Jagan***. I am postdoctoral associate at [Commonwealth Cyber Initiative (CCI)](https://cyberinitiative.org/research.html), Virginia Tech. I am working with [Feras Batarseh](http://batarseh.blogspot.com/) and my research focuses on AI Assurance.
 
 Earlier, I earned my PhD from the [Department of Computer Science and Engineering](http://cse.uta.edu/) at the [University of Texas at Arlington](http://www.uta.edu/uta/). My advisor is [Prof. Jeff Lei](https://mentis.uta.edu/explore/profile/yu-lei). Prior to that, I earned my *M.S. in Computer Science* from the University of Texas at Arlington in 2015, and my B.Tech degree in Information Technology in 2008. Before joining the graduate school, I was working as an Analyst Programmer from 2009 to 2012. You can find my CV [here](https://cjaganmohan.github.io/files/Simple_CV_Jagan.pdf).
 
