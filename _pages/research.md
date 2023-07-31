@@ -7,10 +7,10 @@ author_profile: true
 
 
 
-My research is at the intersection of Software Engineering (SE) and Artificial Intelligence (AI), focusing on addressing the software engineering challenges in the AI system development lifecycle. My current research aims to develop AI assurance approaches for a reliable and trustworthy AI system.
+My research is at the intersection of Software Engineering (SE) and Artificial Intelligence (AI), focusing on addressing the software engineering challenges in the AI system development lifecycle. My current focus is on developing approaches to test and evaluate ML-enabled systems across its lifecycle.
 
 
-
+<!--
 # Recent Projects 
 
 ## Fairness Testing
@@ -31,6 +31,7 @@ Generating data to test AI systems, particularly for image-based AI systems such
 ## Test cost reduction
 Many machine learning algorithms examine large amounts of data to discover insights from hidden patterns. Testing these algorithms can be expensive and time- consuming. There is a need to speed up the testing process, especially in an agile development process, where testing is frequently performed. One approach is to replace big datasets with smaller datasets produced by random sampling. In this project, we report a set of experiments that are designed to evaluate the effectiveness of using reduced datasets produced by random sampling for testing machine learning algorithms. Results suggest that reduced datasets can be used to accelerate the testing phase of ML applications while largely preserving the fault detection effectiveness of the original datasets. -- [(preprint)](https://cjaganmohan.github.io/files/Effectiveness_of_dataset_reduction_pre_print_AITest2020.pdf), [(video)](https://www.youtube.com/watch?v=j_4Nz04hmbM)
 
+-->
 
 
 
