@@ -23,13 +23,13 @@ Earlier, I earned my PhD from the [Department of Computer Science and Engineerin
 
 I am a postdoctoral associate in the Intelligent Systems Division at [Virginia Tech National Security Institute](https://nationalsecurity.vt.edu/research/isd.html). I work closely with Dr. Erin Lanus at the Intelligent Systems Division.  Earlier, I earned my M.S. and Ph.D. in Computer Science from the [University of Texas at Arlington](http://www.uta.edu/uta/) under the advisement of [Prof. Jeff Lei](https://mentis.uta.edu/explore/profile/yu-lei). My research interests are **at the intersection of Software Engineering and Artificial Intelligence**, focusing on the reliability and trustworthiness of AI-enabled software systems.
 
-I am motivated to ***address the engineering challenges in developing and deploying an AI‐enabled software system*** in the real world. My current focus is developing approaches to test and evaluate ML-enabled systems across its lifecycle.
+I am motivated to ***address the engineering challenges in developing and deploying an AI‐enabled software system*** in the real world. My current focus is developing approaches to test and evaluate ML-enabled systems across its lifecycle. Through my research, I aim to enable practitioners to develop and maintain trustworthy AI/ML systems.
 
-My CV is available [here](https://cjaganmohan.github.io/files/Academic_CV_Jagan.pdf).
+My CV is available [here](https://cjaganmohan.github.io/files/Latest_CV_Jagan.pdf).
 
 Thank you for visiting my academic corner on the web. I am always eager to connect; Whether you are curious about my research, have suggestions or ideas for collaboration, or simply wish to discuss common interests, feel free to reach out using the provided contact information.
 
-
+<!--
 ## News
 **2023**
   * **May**
@@ -69,4 +69,4 @@ Thank you for visiting my academic corner on the web. I am always eager to conne
     * A Combinatorial Approach to Fairness Testing of Machine Learning Models* accepted at IWCT 2022
   * **January**
     * Submitted a tutorial proposal to [FLAIRS 2022](https://www.flairs-35.info/tutorials)
-  
+  -->
