@@ -25,7 +25,7 @@ I am a postdoctoral associate in the Intelligent Systems Division at [Virginia T
 
 I am motivated to ***address the engineering challenges in developing and deploying an AI‐enabled software system*** in the real world. My current focus is developing approaches to test and evaluate ML-enabled systems across its lifecycle. Through my research, I aim to enable practitioners to develop and maintain trustworthy AI/ML systems.
 
-My CV is available [here](https://cjaganmohan.github.io/files/Latest_CV_Jagan.pdf).
+My CV is available [here](https://cjaganmohan.github.io/files/CV_Jagan.pdf).
 
 Thank you for visiting my academic corner on the web. I am always eager to connect; Whether you are curious about my research, have suggestions or ideas for collaboration, or simply wish to discuss common interests, feel free to reach out using the provided contact information.
 
