@@ -21,11 +21,11 @@ Earlier, I earned my PhD from the [Department of Computer Science and Engineerin
   * **AI Assurance:** Explainability, Fairness, Generalizability
 -->
 
-I am Jagan, a research assistant professor in the Sanghani Center for Artificial Intelligence and Data Analytics [https://sanghani.cs.vt.edu] at Virginia Tech. My research interests are **at the intersection of Software Engineering and Artificial Intelligence**, focusing on the reliability and trustworthiness of AI-enabled software systems. 
+I am Jagan, a research assistant professor in the [Sanghani Center for Artificial Intelligence and Data Analytics](https://sanghani.cs.vt.edu) at Virginia Tech. My research interests are **at the intersection of Software Engineering and Artificial Intelligence**, focusing on the reliability and trustworthiness of AI-enabled software systems. 
 
 I am motivated to ***address the engineering challenges in developing and deploying an AI‐enabled software system*** in the real world. My current focus is developing approaches to test and evaluate ML-enabled systems across its lifecycle. Through my research, I aim to enable practitioners to develop, deploy and maintain trustworthy AI/ML systems.
 
-Earlier, I was a postdoctoral associate in the Intelligent Systems Division at [Virginia Tech National Security Institute](https://nationalsecurity.vt.edu/research/isd.html), where I worked closely with Dr. Erin Lanus [https://data-assurance.vt.domains]. I earned my M.S. and Ph.D. in Computer Science from the [University of Texas at Arlington](http://www.uta.edu/uta/) under the advisement of [Prof. Jeff Lei](https://mentis.uta.edu/explore/profile/yu-lei).
+Earlier, I was a postdoctoral associate in the Intelligent Systems Division at [Virginia Tech National Security Institute](https://nationalsecurity.vt.edu/research/isd.html), where I worked closely with [Dr. Erin Lanus] (https://data-assurance.vt.domains). I earned my M.S. and Ph.D. in Computer Science from the [University of Texas at Arlington](http://www.uta.edu/uta/) under the advisement of [Prof. Jeff Lei](https://mentis.uta.edu/explore/profile/yu-lei).
 
 My CV is available [here](https://cjaganmohan.github.io/files/CV_Jagan.pdf).
 
