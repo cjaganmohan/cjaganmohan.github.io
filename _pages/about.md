@@ -39,8 +39,7 @@ I am motivated to ***address the engineering challenges in developing and deploy
 My CV is available [here](https://cjaganmohan.github.io/files/CV_Jagan.pdf).
 
 Thank you for visiting my academic corner on the web. I am always eager to connect; Whether you are curious about my research, have suggestions or ideas for collaboration, or simply wish to discuss common interests, feel free to reach out using the provided contact information.
--->
-<!--
+
 ## News
 **2023**
   * **May**
