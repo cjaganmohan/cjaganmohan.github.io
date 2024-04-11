@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jaganmohan Chandrasekaran, PhD"
+title                    : "Jaganmohan Chandrasekaran, Ph.D."
 title_separator          : "-"
 name                     : &name "Jaganmohan Chandrasekaran"
-description              : &description "Postdoc, Virginia Tech"
+description              : &description "Research Assistant Professor, Virginia Tech"
 url                      : https://cjaganmohan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cjaganmohan/cjaganmohan.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jaganmohan Chandrasekaran"
   avatar           : "Jagan_headshot_2022CyberCamp.jpg"
-  bio              : "Postdoctoral Associate - AI | Virginia Tech | USA"
+  bio              : "Research Assistant Professor | Virginia Tech | USA"
   location         : "Arlington, Virginia"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
