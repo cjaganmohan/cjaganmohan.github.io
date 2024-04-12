@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am Jagan, a research assistant professor in the [Sanghani Center for Artificial Intelligence and Data Analytics](https://sanghani.cs.vt.edu) at Virginia Tech. My research interests are **at the intersection of Software Engineering and Artificial Intelligence**, focusing on the reliability and trustworthiness of AI-enabled software systems. 
+I am a research assistant professor in the [Sanghani Center for Artificial Intelligence and Data Analytics](https://sanghani.cs.vt.edu) at Virginia Tech. My research interests are **at the intersection of Software Engineering and Artificial Intelligence**, focusing on the reliability and trustworthiness of AI-enabled software systems. 
 
 I am motivated to ***address the engineering challenges in developing and deploying an AI‐enabled software system*** in the real world. My current focus is developing approaches to test and evaluate ML-enabled systems across its lifecycle. Through my research, I aim to enable practitioners to develop, deploy and maintain trustworthy AI/ML systems.
 
