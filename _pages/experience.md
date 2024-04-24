@@ -7,10 +7,12 @@ author_profile: true
 
 ## Work Experience
 
+* **Research Assistant Professor - Virginia Tech**
+   *  April 2024 - Current 
 * **Postdoctoral Associate - Virginia Tech**
-    * Oct 2021 - Current
+    * October 2021 - April 2024
 * **Research Associate - UT Arlington**
-    * Oct 2021
+    * October 2021
 * **Graduate Research Assistant**
     * Fall 2020 - Spring 2021
 * **Graduate Teaching Assistant**
