@@ -4,11 +4,41 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+**Manuscripts Under Review / Preparation**
+   * **A Combinatorial Approach to Synthetic Data Generation**  
+     Krishna Khadka,<u>Jaganmohan Chandrasekaran</u>, Yu Lei, Raghu Kacker and D. Richard Kuhn.  
+     Submitted to a Journal, currently under review
+
+   * **A Survey of Data Security: Practices from Cybersecurity and Challenges of Machine Learning**  
+     Padmaksha Roy, <u>Jaganmohan Chandrasekaran</u>, Erin Lanus, Laura Freeman, and Jeremy Warner.  
+     Submitted to a Journal, currently under review  
+
+**2024**
+
+   * **Testing Machine Learning: Best Practices for the Life Cycle**  
+     <u>Jaganmohan Chandrasekaran</u>, Tyler Cody, Nicola McCarthy, Erin Lanus, Laura Freeman, and Kristen Alexander.
+     In 2024 Naval Engineers Jouranl (In Press)
+   
+   * **Operational and Live Fire Test and Evaluation Framework for AI-enabled systems**  
+     Nicola McCarthy, Tyler Cody, <u>Jaganmohan Chandrasekaran</u>, Erin Lanus, Laura Freeman, Kristen Alexander, and Sandra Hobson.
+     In 2024 Naval Engineers Jouranl (In Press)
+   
+   * **Assured Autonomy through Combinatorial Methods**  
+     D.Richard Kuhn, M S Raunak, Raghu N.Kacker, <u>Jaganmohan Chandrasekaran</u>, Erin Lanus, Tyler Cody, and Laura Freeman  
+     In 2024 IEEE Computer (In Press)
+   
+   * **Leveraging Combinatorial Coverage in ML Product Lifecycle**   
+     <u>Jaganmohan Chandrasekaran</u>, Erin Lanus, Tyler Cody, Laura Freeman, Raghu Kacker, M S Raunak, and D. Richard Kuhn.  
+     In 2024 IEEE Computer - Peer reviewed Research Article (In Press).
+   
+   * **A Combinatorial Approach to Hyperparameter Optimization**   
+   Krishna Khadka,<u>Jaganmohan Chandrasekaran</u>, Yu Lei, Raghu Kacker and D. Richard Kuhn.  
+   In 2024 IEEE International Conference on AI Engineering (In Press). **Distinguished paper Award Candidate** 
 
 **2023**
  * **Synthetic Data Generation Using Combinatorial Testing and Variational Autoencoder**   
-   Krishna Khadka,<u>Jaganmohan Chandrasekaran</u>, Yu Lei, D. Richard Kuhn, and Raghu Kacker.  
-In 2023 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW).
+   Krishna Khadka,<u>Jaganmohan Chandrasekaran</u>, Yu Lei, Raghu Kacker and D. Richard Kuhn.  
+   In 2023 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW).
  
 
 ***2022***
