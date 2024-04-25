@@ -12,16 +12,16 @@ In 2023 IEEE International Conference on Software Testing, Verification and Vali
  
 
 ***2022***
-  * **DeepFarm: AI-Driven Management of Farm Production using Explainable Causality**
+  * **DeepFarm: AI-Driven Management of Farm Production using Explainable Causality**  
     Chelsea Wang, <u>Jaganmohan Chandrasekaran</u>, Flora Haberkorn, Yan Don, Munisamy Gopinath, and Feras A. Batarseh.
     In 2022 IEEE 29th Annual Software Technology Conference (STC), IEEE.
-  * **DeltaExplainer: A Software Debugging Approach to Generating Counterfactual Explanations**
+  * **DeltaExplainer: A Software Debugging Approach to Generating Counterfactual Explanations**  
     Sunny Shree, <u>Jaganmohan Chandrasekaran</u> , Yu Lei, D. Richard Kuhn, and Raghu Kacker.
     In 2022 IEEE International Conference On Artificial Intelligence Testing (AITest), 2022, (pp. 103-110). IEEE.
-  * **Enabling AI Adoption through Assurance**, (Tutorial),
+  * **Enabling AI Adoption through Assurance**, (Tutorial),  
     <u>Jaganmohan Chandrasekaran</u> , Feras A. Batarseh, Laura Freeman, D. Richard Kuhn, M S Raunak, Raghu N. Kacker,
     In 2022 Florida Artificial Intelligence Research Society. -- [Preprint](https://journals.flvc.org/FLAIRS/article/view/130726/133963)
-  * **A Combinatorial Approach to Fairness Testing of Machine Learning Models**
+  * **A Combinatorial Approach to Fairness Testing of Machine Learning Models**  
     Ankita Ramjibhai Patel,<u>Jaganmohan Chandrasekaran</u>, Yu Lei, Raghu Kacker, and D. Richard Kuhn.  
     In 2022 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW). -- [Preprint](https://cjaganmohan.github.io/files/A_Combinatorial_Approach_to_Fairness_Testing_of-Machine_Learning_Models.pdf)
 
