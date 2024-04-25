@@ -16,12 +16,12 @@ author_profile: true
 **2024**
 
    * **Testing Machine Learning: Best Practices for the Life Cycle**  
-     <u>Jaganmohan Chandrasekaran</u>, Tyler Cody, Nicola McCarthy, Erin Lanus, Laura Freeman, and Kristen Alexander.
-     In 2024 Naval Engineers Jouranl (In Press)
+     <u>Jaganmohan Chandrasekaran</u>, Tyler Cody, Nicola McCarthy, Erin Lanus, Laura Freeman, and Kristen Alexander.  
+     In 2024 Naval Engineers Journal (In Press)
    
    * **Operational and Live Fire Test and Evaluation Framework for AI-enabled systems**  
-     Nicola McCarthy, Tyler Cody, <u>Jaganmohan Chandrasekaran</u>, Erin Lanus, Laura Freeman, Kristen Alexander, and Sandra Hobson.
-     In 2024 Naval Engineers Jouranl (In Press)
+     Nicola McCarthy, Tyler Cody, <u>Jaganmohan Chandrasekaran</u>, Erin Lanus, Laura Freeman, Kristen Alexander, and Sandra Hobson.  
+     In 2024 Naval Engineers Journal (In Press)
    
    * **Assured Autonomy through Combinatorial Methods**  
      D.Richard Kuhn, M S Raunak, Raghu N.Kacker, <u>Jaganmohan Chandrasekaran</u>, Erin Lanus, Tyler Cody, and Laura Freeman  
@@ -43,13 +43,13 @@ author_profile: true
 
 ***2022***
   * **DeepFarm: AI-Driven Management of Farm Production using Explainable Causality**  
-    Chelsea Wang, <u>Jaganmohan Chandrasekaran</u>, Flora Haberkorn, Yan Don, Munisamy Gopinath, and Feras A. Batarseh.
+    Chelsea Wang, <u>Jaganmohan Chandrasekaran</u>, Flora Haberkorn, Yan Don, Munisamy Gopinath, and Feras A. Batarseh.  
     In 2022 IEEE 29th Annual Software Technology Conference (STC), IEEE.
   * **DeltaExplainer: A Software Debugging Approach to Generating Counterfactual Explanations**  
-    Sunny Shree, <u>Jaganmohan Chandrasekaran</u> , Yu Lei, D. Richard Kuhn, and Raghu Kacker.
+    Sunny Shree, <u>Jaganmohan Chandrasekaran</u> , Yu Lei, D. Richard Kuhn, and Raghu Kacker.  
     In 2022 IEEE International Conference On Artificial Intelligence Testing (AITest), 2022, (pp. 103-110). IEEE.
   * **Enabling AI Adoption through Assurance**, (Tutorial),  
-    <u>Jaganmohan Chandrasekaran</u> , Feras A. Batarseh, Laura Freeman, D. Richard Kuhn, M S Raunak, Raghu N. Kacker,
+    <u>Jaganmohan Chandrasekaran</u> , Feras A. Batarseh, Laura Freeman, D. Richard Kuhn, M S Raunak, and Raghu N. Kacker  
     In 2022 Florida Artificial Intelligence Research Society. -- [Preprint](https://journals.flvc.org/FLAIRS/article/view/130726/133963)
   * **A Combinatorial Approach to Fairness Testing of Machine Learning Models**  
     Ankita Ramjibhai Patel,<u>Jaganmohan Chandrasekaran</u>, Yu Lei, Raghu Kacker, and D. Richard Kuhn.  
@@ -57,23 +57,23 @@ author_profile: true
 
 ***2021***
   * **Evaluation of T-Way Testing of DNNs in Autonomous Driving Systems**  
-    <u>Jaganmohan Chandrasekaran</u> ,Ankita Ramjibhai Patel, Yu Lei, Raghu Kacker, and D. Richard Kuhn.
+    <u>Jaganmohan Chandrasekaran</u> ,Ankita Ramjibhai Patel, Yu Lei, Raghu Kacker, and D. Richard Kuhn.  
     In 2021 IEEE International Conference On Artificial Intelligence Testing (AITest). IEEE.-- [Preprint](https://cjaganmohan.github.io/files/Evaluation_of_T-Way_Testing_of_DNNs_in_Autonomous_Driving_Systems_pre_print_AITest2021.pdf)
-  * **A Combinatorial Approach to Explaining Image Classifiers**
-    <u>Jaganmohan Chandrasekaran</u> ,Yu Lei, Raghu Kacker, and D. Richard Kuhn.
+  * **A Combinatorial Approach to Explaining Image Classifiers**  
+    <u>Jaganmohan Chandrasekaran</u> ,Yu Lei, Raghu Kacker, and D. Richard Kuhn.  
     In 2021 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW). -- [Preprint](https://cjaganmohan.github.io/files/XAI_Tool_pre_print_IWCT_2021.pdf)
-  * **A Combinatorial Approach to Testing Deep Neural Network-based Autonomous Driving Systems**
-    <u>Jaganmohan Chandrasekaran</u> ,Yu Lei, Raghu Kacker, and D. Richard Kuhn.
+  * **A Combinatorial Approach to Testing Deep Neural Network-based Autonomous Driving Systems**  
+    <u>Jaganmohan Chandrasekaran</u> ,Yu Lei, Raghu Kacker, and D. Richard Kuhn.  
     In 2021 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW). -- [Preprint](https://cjaganmohan.github.io/files/Testing_DNN_pre_print_IWCT_2021.pdf)
 
 ***2020***
 * **Effectiveness of dataset reduction in testing machine learning algorithms**.  
-  <u>Jaganmohan Chandrasekaran</u> , Huadong Feng, Yu Lei, Raghu Kacker, and D. Richard Kuhn.
+  <u>Jaganmohan Chandrasekaran</u> , Huadong Feng, Yu Lei, Raghu Kacker, and D. Richard Kuhn.  
   In 2020 IEEE International Conference On Artificial Intelligence Testing (AITest). -- [Preprint](https://cjaganmohan.github.io/files/Effectiveness_of_dataset_reduction_pre_print_AITest2020.pdf)
 
 ***2018***
 * **A Method-Level Test Generation Framework for Debugging Big Data Applications**.  
-  Huadong Feng, <u>Jaganmohan Chandrasekaran</u> , Yu Lei, D. Richard Kuhn, and Raghu Kacker.
+  Huadong Feng, <u>Jaganmohan Chandrasekaran</u> , Yu Lei, D. Richard Kuhn, and Raghu Kacker.  
   In 2018 IEEE International Conference on Big Data (Big Data). -- [Preprint](https://cjaganmohan.github.io/files/debugging_BigData_Pre_Print_IEEEBigData.pdf)
 
 ***2017***
