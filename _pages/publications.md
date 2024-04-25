@@ -6,10 +6,7 @@ author_profile: true
 ---
 
 **2023**
-
-
- 
- * <font color="blue">**Synthetic Data Generation Using Combinatorial Testing and Variational Autoencoder**</font>  
+ * <font color="#4B7BEC">Synthetic Data Generation Using Combinatorial Testing and Variational Autoencoder</font>  
   Krishna Khadka,<u>Jaganmohan Chandrasekaran</u>, Yu Lei, D. Richard Kuhn, and Raghu Kacker.   
   <small>In 2023 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW).</small>
  
@@ -38,4 +35,6 @@ author_profile: true
 * **Jaganmohan Chandrasekaran** , Laleh Sh Ghandehari, Yu Lei, Raghu Kacker, and D. Richard Kuhn. ***Evaluating the Effectiveness of BEN in Localizing Different Types of Software Fault***. In Software Testing, Verification and Validation Workshops (ICSTW), 2016 IEEE Ninth International Conference on, pp. 26-34. IEEE, 2016.-- [Slides](https://cjaganmohan.github.io/files/BEN-effectiveness-IWCT2016.pdf)
 
 ***2015***
-* Laleh Sh Ghandehari, **Jaganmohan Chandrasekaran** , Yu Lei, Raghu Kacker, and D. Richard Kuhn. ***BEN: A combinatorial testing-based fault localization tool***. In Software Testing, Verification and Validation Workshops (ICSTW), 2015 IEEE Eighth International Conference on, pp. 1-4. IEEE, 2015.
+* **BEN: A combinatorial testing-based fault localization tool**.  
+  Laleh Sh Ghandehari, <u>Jaganmohan Chandrasekaran</u>, Yu Lei, Raghu Kacker, and D. Richard Kuhn.  
+  In International Conference on Software Testing, Verification and Validation Workshops (ICSTW),2015.
