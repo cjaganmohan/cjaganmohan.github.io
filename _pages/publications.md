@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 **2023**
- * <font color="#4B7BEC">Synthetic Data Generation Using Combinatorial Testing and Variational Autoencoder</font>  
+ * **Synthetic Data Generation Using Combinatorial Testing and Variational Autoencoder**   
    Krishna Khadka,<u>Jaganmohan Chandrasekaran</u>, Yu Lei, D. Richard Kuhn, and Raghu Kacker.  
 In 2023 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW).
  
@@ -18,23 +18,33 @@ In 2023 IEEE International Conference on Software Testing, Verification and Vali
   * Ankita Ramjibhai Patel, **Jaganmohan Chandrasekaran**, Yu Lei, Raghu Kacker, and D. Richard Kuhn. ***A Combinatorial Approach to Fairness Testing of Machine Learning Models*** In 2022 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW). IEEE. -- [Preprint](https://cjaganmohan.github.io/files/A_Combinatorial_Approach_to_Fairness_Testing_of-Machine_Learning_Models.pdf)
 
 ***2021***
-  * **Jaganmohan Chandrasekaran** ,Ankita Ramjibhai Patel, Yu Lei, Raghu Kacker, and D. Richard Kuhn. ***Evaluation of T-Way Testing of DNNs in Autonomous Driving Systems*** In 2021 IEEE International Conference On Artificial Intelligence Testing (AITest). IEEE. -- [Preprint](https://cjaganmohan.github.io/files/Evaluation_of_T-Way_Testing_of_DNNs_in_Autonomous_Driving_Systems_pre_print_AITest2021.pdf)
-  * **Jaganmohan Chandrasekaran** ,Yu Lei, Raghu Kacker, and D. Richard Kuhn. ***A Combinatorial Approach to Explaining Image Classifiers*** In 2021 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW) (pp. 35-43). IEEE. -- [Preprint](https://cjaganmohan.github.io/files/XAI_Tool_pre_print_IWCT_2021.pdf)
-  * **Jaganmohan Chandrasekaran** ,Yu Lei, Raghu Kacker, and D. Richard Kuhn. ***A Combinatorial Approach to Testing Deep Neural Network-based Autonomous Driving Systems*** In 2021 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW) (pp. 57-66). IEEE. -- [Preprint](https://cjaganmohan.github.io/files/Testing_DNN_pre_print_IWCT_2021.pdf)
+  * **Evaluation of T-Way Testing of DNNs in Autonomous Driving Systems***
+    <u>Jaganmohan Chandrasekaran</u> ,Ankita Ramjibhai Patel, Yu Lei, Raghu Kacker, and D. Richard Kuhn.
+    In 2021 IEEE International Conference On Artificial Intelligence Testing (AITest). IEEE.-- [Preprint](https://cjaganmohan.github.io/files/Evaluation_of_T-Way_Testing_of_DNNs_in_Autonomous_Driving_Systems_pre_print_AITest2021.pdf)
+  * **A Combinatorial Approach to Explaining Image Classifiers***
+    <u>Jaganmohan Chandrasekaran</u> ,Yu Lei, Raghu Kacker, and D. Richard Kuhn.
+    In 2021 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW). -- [Preprint](https://cjaganmohan.github.io/files/XAI_Tool_pre_print_IWCT_2021.pdf)
+  * **A Combinatorial Approach to Testing Deep Neural Network-based Autonomous Driving Systems***
+    <u>Jaganmohan Chandrasekaran</u> ,Yu Lei, Raghu Kacker, and D. Richard Kuhn.
+    In 2021 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW). -- [Preprint](https://cjaganmohan.github.io/files/Testing_DNN_pre_print_IWCT_2021.pdf)
 
 ***2020***
-* **Jaganmohan Chandrasekaran** , Huadong Feng, Yu Lei, Raghu Kacker, and D. Richard Kuhn. ***Effectiveness of dataset reduction in testing machine learning algorithms***. In 2020 IEEE International Conference On Artificial Intelligence Testing (AITest) (pp. 133-140). IEEE. -- [Preprint](https://cjaganmohan.github.io/files/Effectiveness_of_dataset_reduction_pre_print_AITest2020.pdf)
+* **Effectiveness of dataset reduction in testing machine learning algorithms***.
+  <u>Jaganmohan Chandrasekaran</u> , Huadong Feng, Yu Lei, Raghu Kacker, and D. Richard Kuhn.
+  In 2020 IEEE International Conference On Artificial Intelligence Testing (AITest). -- [Preprint](https://cjaganmohan.github.io/files/Effectiveness_of_dataset_reduction_pre_print_AITest2020.pdf)
 
 ***2018***
-* Huadong Feng, **Jaganmohan Chandrasekaran** , Yu Lei, D. Richard Kuhn, and Raghu Kacker. ***A Method-Level Test Generation Framework for Debugging Big Data Applications***. 2018 IEEE International Conference on Big Data (Big Data) pp. 221-230. IEEE, 2018. -- [Preprint](https://cjaganmohan.github.io/files/debugging_BigData_Pre_Print_IEEEBigData.pdf)
+* **A Method-Level Test Generation Framework for Debugging Big Data Applications**.
+  Huadong Feng, <u>Jaganmohan Chandrasekaran</u> , Yu Lei, D. Richard Kuhn, and Raghu Kacker.
+  In 2018 IEEE International Conference on Big Data (Big Data). -- [Preprint](https://cjaganmohan.github.io/files/debugging_BigData_Pre_Print_IEEEBigData.pdf)
 
 ***2017***
-* <font color="#4B7BEC">Applying Combinatorial Testing to Data Mining Algorithms</font>.  
+* **Applying Combinatorial Testing to Data Mining Algorithms**.  
   <u>Jaganmohan Chandrasekaran</u> , Huadong Feng, Yu Lei, D. Richard Kuhn, and Raghu Kacker.  
   In 2017 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW). -- [Preprint](https://cjaganmohan.github.io/files/Applying_Combinatorial_Testing_to_Data_Mining_Algorithms_Pre_Print_IWCT2017.pdf)
 
 ***2016***
-* <font color="#4B7BEC">Evaluating the Effectiveness of BEN in Localizing Different Types of Software Fault</font>  
+* **Evaluating the Effectiveness of BEN in Localizing Different Types of Software Fault**  
   <u>Jaganmohan Chandrasekaran</u> , Laleh Sh Ghandehari, Yu Lei, Raghu Kacker, and D. Richard Kuhn.  
   In 2016 International Conference on Software Testing, Verification and Validation Workshops (ICSTW) -- [Slides](https://cjaganmohan.github.io/files/BEN-effectiveness-IWCT2016.pdf)
 
