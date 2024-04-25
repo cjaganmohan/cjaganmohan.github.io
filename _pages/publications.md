@@ -9,8 +9,8 @@ author_profile: true
 
 
  
- * **Synthetic Data Generation Using Combinatorial Testing and Variational Autoencoder**
-   Krishna Khadka,<u>Jaganmohan Chandrasekaran</u>, Yu Lei, D. Richard Kuhn, and Raghu Kacker.   
+ * <font color="blue">**Synthetic Data Generation Using Combinatorial Testing and Variational Autoencoder**</font>  
+  Krishna Khadka,<u>Jaganmohan Chandrasekaran</u>, Yu Lei, D. Richard Kuhn, and Raghu Kacker.   
   <small>In 2023 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW).</small>
  
 
