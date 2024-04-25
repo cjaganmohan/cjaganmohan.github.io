@@ -9,10 +9,10 @@ author_profile: true
 
 
  
- * **Synthetic Data Generation Using Combinatorial Testing and Variational Autoencoder** Krishna Khadka,<u>Jaganmohan Chandrasekaran</u>, Yu Lei, D. Richard Kuhn, and Raghu Kacker.   
+ * **Synthetic Data Generation Using Combinatorial Testing and Variational Autoencoder**
+   Krishna Khadka,<u>Jaganmohan Chandrasekaran</u>, Yu Lei, D. Richard Kuhn, and Raghu Kacker.   
   <small>In 2023 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW).</small>
-  
-  * Krishna Khadka, **Jaganmohan Chandrasekaran**, Yu Lei, D. Richard Kuhn, and Raghu Kacker. ***Synthetic Data Generation Using Combinatorial Testing and Variational Autoencoder*** In 2023 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW). IEEE
+ 
 
 ***2022***
   * Chelsea Wang, **Jaganmohan Chandrasekaran**, Flora Haberkorn, Yan Don, Munisamy Gopinath, and Feras A. Batarseh. ***DeepFarm: AI-Driven Management of Farm Production using Explainable Causality*** , In 2022 IEEE 29th Annual Software Technology Conference (STC), IEEE.
