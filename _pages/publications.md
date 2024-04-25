@@ -29,12 +29,12 @@ In 2023 IEEE International Conference on Software Testing, Verification and Vali
 * Huadong Feng, **Jaganmohan Chandrasekaran** , Yu Lei, D. Richard Kuhn, and Raghu Kacker. ***A Method-Level Test Generation Framework for Debugging Big Data Applications***. 2018 IEEE International Conference on Big Data (Big Data) pp. 221-230. IEEE, 2018. -- [Preprint](https://cjaganmohan.github.io/files/debugging_BigData_Pre_Print_IEEEBigData.pdf)
 
 ***2017***
-* **Applying Combinatorial Testing to Data Mining Algorithms**.  
+* <font color="#4B7BEC">Applying Combinatorial Testing to Data Mining Algorithms</font>.  
   <u>Jaganmohan Chandrasekaran</u> , Huadong Feng, Yu Lei, D. Richard Kuhn, and Raghu Kacker.  
   In 2017 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW). -- [Preprint](https://cjaganmohan.github.io/files/Applying_Combinatorial_Testing_to_Data_Mining_Algorithms_Pre_Print_IWCT2017.pdf)
 
 ***2016***
-* **Evaluating the Effectiveness of BEN in Localizing Different Types of Software Fault**.  
+* <font color="#4B7BEC">Evaluating the Effectiveness of BEN in Localizing Different Types of Software Fault</font>  
   <u>Jaganmohan Chandrasekaran</u> , Laleh Sh Ghandehari, Yu Lei, Raghu Kacker, and D. Richard Kuhn.  
   In 2016 International Conference on Software Testing, Verification and Validation Workshops (ICSTW) -- [Slides](https://cjaganmohan.github.io/files/BEN-effectiveness-IWCT2016.pdf)
 
