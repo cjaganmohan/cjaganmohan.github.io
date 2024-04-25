@@ -36,6 +36,7 @@ author_profile: true
    In 2024 IEEE International Conference on AI Engineering (In Press). **Distinguished paper Award Candidate** 
 
 **2023**
+ 
  * **Synthetic Data Generation Using Combinatorial Testing and Variational Autoencoder**   
    Krishna Khadka,<u>Jaganmohan Chandrasekaran</u>, Yu Lei, Raghu Kacker and D. Richard Kuhn.  
    In 2023 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW).
