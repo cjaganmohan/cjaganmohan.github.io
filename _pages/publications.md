@@ -13,8 +13,8 @@ author_profile: true
      Padmaksha Roy, <u>Jaganmohan Chandrasekaran</u>, Erin Lanus, Laura Freeman, and Jeremy Warner.  
      Submitted to a Journal, currently under review -- [Preprint](https://arxiv.org/pdf/2310.04513)
 
-   * **Test & Evaluation Best Practices for Machine Learning-Enabled Systems**
-     <u>Jaganmohan Chandrasekaran</u>, Tyler Cody, Nicola McCarthy, Erin Lanus, and Laura Freeman.
+   * **Test & Evaluation Best Practices for Machine Learning-Enabled Systems**  
+     <u>Jaganmohan Chandrasekaran</u>, Tyler Cody, Nicola McCarthy, Erin Lanus, and Laura Freeman.  
      Submitted to a Journal, currently under review -- [Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4862589)
 
 
