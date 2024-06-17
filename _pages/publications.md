@@ -11,22 +11,26 @@ author_profile: true
 
    * **A Survey of Data Security: Practices from Cybersecurity and Challenges of Machine Learning**  
      Padmaksha Roy, <u>Jaganmohan Chandrasekaran</u>, Erin Lanus, Laura Freeman, and Jeremy Warner.  
-     Submitted to a Journal, currently under review
+     Submitted to a Journal, currently under review -- [Preprint](https://arxiv.org/pdf/2310.04513)
+
+   * **Test & Evaluation Best Practices for Machine Learning-Enabled Systems**
+     <u>Jaganmohan Chandrasekaran</u>, Tyler Cody, Nicola McCarthy, Erin Lanus, and Laura Freeman.
+     Submitted to a Journal, currently under review -- [Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4862589)
 
 
 **2024**
 
-   * **Assured Autonomy through Combinatorial Methods**  
-     D.Richard Kuhn, M S Raunak, Raghu N.Kacker, <u>Jaganmohan Chandrasekaran</u>, Erin Lanus, Tyler Cody, and Laura Freeman  
-     In 2024 IEEE Computer (In Press)
-   
-   * **Leveraging Combinatorial Coverage in ML Product Lifecycle**   
+   * **Leveraging Combinatorial Coverage in the Machine Learning Product Lifecycle**   
      <u>Jaganmohan Chandrasekaran</u>, Erin Lanus, Tyler Cody, Laura Freeman, Raghu Kacker, M S Raunak, and D. Richard Kuhn.  
      In 2024 IEEE Computer - Peer reviewed Research Article (In Press).
+     
+  * **Assured Autonomy through Combinatorial Methods**  
+     D.Richard Kuhn, M S Raunak, Raghu N.Kacker, <u>Jaganmohan Chandrasekaran</u>, Erin Lanus, Tyler Cody, and Laura Freeman  
+     In 2024 IEEE Computer -- [Article](https://ieeexplore.ieee.org/abstract/document/10517690)
    
    * **A Combinatorial Approach to Hyperparameter Optimization**   
    Krishna Khadka,<u>Jaganmohan Chandrasekaran</u>, Yu Lei, Raghu Kacker and D. Richard Kuhn.  
-   In 2024 IEEE International Conference on AI Engineering (In Press). **Distinguished paper Award Candidate** 
+   In 2024 IEEE International Conference on AI Engineering (CAIN), IEEE/ACM -- [Article](https://dl.acm.org/doi/pdf/10.1145/3644815.3644941). **Distinguished paper Award Candidate** 
 
 **2023**
  
@@ -41,7 +45,7 @@ author_profile: true
     In 2022 IEEE 29th Annual Software Technology Conference (STC), IEEE.
   * **DeltaExplainer: A Software Debugging Approach to Generating Counterfactual Explanations**  
     Sunny Shree, <u>Jaganmohan Chandrasekaran</u> , Yu Lei, D. Richard Kuhn, and Raghu Kacker.  
-    In 2022 IEEE International Conference On Artificial Intelligence Testing (AITest), 2022, (pp. 103-110). IEEE.
+    In 2022 IEEE International Conference On Artificial Intelligence Testing (AITest), IEEE.
   * **Enabling AI Adoption through Assurance**, (Tutorial),  
     <u>Jaganmohan Chandrasekaran</u> , Feras A. Batarseh, Laura Freeman, D. Richard Kuhn, M S Raunak, and Raghu N. Kacker  
     In 2022 Florida Artificial Intelligence Research Society. -- [Preprint](https://journals.flvc.org/FLAIRS/article/view/130726/133963)
