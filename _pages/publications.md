@@ -29,13 +29,13 @@ author_profile: true
      In 2024 IEEE Computer -- [Article](https://ieeexplore.ieee.org/abstract/document/10517690)
    
    * **A Combinatorial Approach to Hyperparameter Optimization**   
-   Krishna Khadka,<u>Jaganmohan Chandrasekaran</u>, Yu Lei, Raghu Kacker and D. Richard Kuhn.  
+   Krishna Khadka, <u>Jaganmohan Chandrasekaran</u>, Yu Lei, Raghu Kacker and D. Richard Kuhn.  
    In 2024 IEEE International Conference on AI Engineering (CAIN), IEEE/ACM -- [Article](https://dl.acm.org/doi/pdf/10.1145/3644815.3644941). **Distinguished paper Award Candidate** 
 
 **2023**
  
  * **Synthetic Data Generation Using Combinatorial Testing and Variational Autoencoder**   
-   Krishna Khadka,<u>Jaganmohan Chandrasekaran</u>, Yu Lei, Raghu Kacker and D. Richard Kuhn.  
+   Krishna Khadka, <u>Jaganmohan Chandrasekaran</u>, Yu Lei, Raghu Kacker and D. Richard Kuhn.  
    In 2023 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW).
  
 
