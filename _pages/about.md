@@ -19,15 +19,6 @@ Prior to my current appointment, I was a postdoctoral associate at Virginia Tech
 Thank you for visiting my academic corner on the web. I am always eager to connect; Whether you are curious about my research, have suggestions or ideas for collaboration, or simply wish to discuss common interests, feel free to reach out using the provided contact information.
 
 
- 
- <!--
- My CV is available [here](https://cjaganmohan.github.io/files/CV_Jagan.pdf).
-
-Earlier, I was a postdoctoral associate in the Intelligent Systems Division at [Virginia Tech National Security Institute](https://nationalsecurity.vt.edu/research/isd.html), where I worked closely with [Dr. Erin Lanus](https://data-assurance.vt.domains). I earned my M.S. and Ph.D. in Computer Science from the [University of Texas at Arlington](http://www.uta.edu/uta/) under the advisement of [Prof. Jeff Lei](https://mentis.uta.edu/explore/profile/yu-lei).
-## Current research
-  * **Addressing the Test & Evaluation Challenges in Operational Environments (Post-deployment)**
-  * **Evaluation of Large Language Models**
--->
 
 <!--
 Hi There! I am ***Jagan***. I am postdoctoral associate at Virginia Tech. I am working with Dr.Erin Lanus and my research focuses on AI Assurance.
@@ -39,6 +30,19 @@ Earlier, I earned my PhD from the [Department of Computer Science and Engineerin
   * **Software Engineering for AI-enabled systems**
   * **Testing and Debugging of Machine Learning (ML) and Reinforcement Learning (RL) models**
   * **AI Assurance:** Explainability, Fairness, Generalizability
+
+
+ 
+ <!--
+ My CV is available [here](https://cjaganmohan.github.io/files/CV_Jagan.pdf).
+
+Earlier, I was a postdoctoral associate in the Intelligent Systems Division at [Virginia Tech National Security Institute](https://nationalsecurity.vt.edu/research/isd.html), where I worked closely with [Dr. Erin Lanus](https://data-assurance.vt.domains). I earned my M.S. and Ph.D. in Computer Science from the [University of Texas at Arlington](http://www.uta.edu/uta/) under the advisement of [Prof. Jeff Lei](https://mentis.uta.edu/explore/profile/yu-lei).
+## Current research
+  * **Addressing the Test & Evaluation Challenges in Operational Environments (Post-deployment)**
+  * **Evaluation of Large Language Models**
+-->
+
+  
 -->
 
 <!--
