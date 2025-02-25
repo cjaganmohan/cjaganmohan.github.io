@@ -11,11 +11,7 @@ redirect_from:
 
 I am a research assistant professor in the [Sanghani Center for Artificial Intelligence and Data Analytics](https://sanghani.cs.vt.edu) at Virginia Tech. I am motivated to ***address the engineering challenges in developing and deploying AI‐enabled software system*** in the real world.  Through my research, I aim to enable practitioners to develop, deploy and maintain trustworthy AI/ML systems.
 
-My research interests are **at the intersection of Software Engineering and Artificial Intelligence**, focusing on the reliability and trustworthiness of AI-enabled software systems.  My current work focuses on developing approaches to address the multifaceted challenges in testing AI-enabled software systems across its lifecycle.
-
-## Current research
-  * **Addressing the Test & Evaluation Challenges in Operational Environments (Post-deployment)**
-  * **Evaluation of Large Language Models**
+My research interests are **at the intersection of Software Engineering and Artificial Intelligence**, focusing on the reliability and trustworthiness of AI-enabled software systems.  My current work focuses on developing approaches to address the multifaceted challenges in testing AI-enabled software systems across its lifecycle. More information about my work experience, publications and academic service can be found in my [CV](https://cjaganmohan.github.io/files/CV_Jagan.pdf)
 
 
 Prior to my current appointment, I was a postdoctoral associate at Virginia Tech. I earned my M.S. and Ph.D. in Computer Science from the [University of Texas at Arlington](http://www.uta.edu/uta/) under the advisement of [Prof. Jeff Lei](https://mentis.uta.edu/explore/profile/yu-lei).
@@ -31,7 +27,9 @@ Thank you for visiting my academic corner on the web. I am always eager to conne
  My CV is available [here](https://cjaganmohan.github.io/files/CV_Jagan.pdf).
 
 Earlier, I was a postdoctoral associate in the Intelligent Systems Division at [Virginia Tech National Security Institute](https://nationalsecurity.vt.edu/research/isd.html), where I worked closely with [Dr. Erin Lanus](https://data-assurance.vt.domains). I earned my M.S. and Ph.D. in Computer Science from the [University of Texas at Arlington](http://www.uta.edu/uta/) under the advisement of [Prof. Jeff Lei](https://mentis.uta.edu/explore/profile/yu-lei).
-
+## Current research
+  * **Addressing the Test & Evaluation Challenges in Operational Environments (Post-deployment)**
+  * **Evaluation of Large Language Models**
 -->
 
 <!--
