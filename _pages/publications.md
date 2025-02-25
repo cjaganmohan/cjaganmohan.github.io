@@ -22,7 +22,7 @@ author_profile: true
   <u>Jaganmohan Chandrasekaran </u>, Ankita Ramjibhai Patel, Erin Lanus, and Laura Freeman. Accepted to IWCT 2025
 
    * **Can an LLM find its way around a Spreadsheet?**  
-    Cho-Ting Lee, Andrew Nesser, Shengzhe Xu, Jay Katyan, Patrick Cross, Sharanya Pathakota, Marigold Norman, John Simeone,<u>Jaganmohan Chandrasekaran<\u>, and Naren Ramakrishnan. Accepted to ICSE 2025
+    Cho-Ting Lee, Andrew Nesser, Shengzhe Xu, Jay Katyan, Patrick Cross, Sharanya Pathakota, Marigold Norman, John Simeone,<u>Jaganmohan Chandrasekaran</u>, and Naren Ramakrishnan. Accepted to ICSE 2025
 
 
 **2024**
@@ -35,7 +35,7 @@ author_profile: true
 
    * **Leveraging Combinatorial Coverage in the Machine Learning Product Lifecycle**   
      <u>Jaganmohan Chandrasekaran</u>, Erin Lanus, Tyler Cody, Laura Freeman, Raghu Kacker, M S Raunak, and D. Richard Kuhn.  
-     In 2024 IEEE Computer - Peer reviewed Research Article (In Press).
+     In 2024 IEEE Computer.
      
   * **Assured Autonomy through Combinatorial Methods**  
      D.Richard Kuhn, M S Raunak, Raghu N.Kacker, <u>Jaganmohan Chandrasekaran</u>, Erin Lanus, Tyler Cody, and Laura Freeman  
