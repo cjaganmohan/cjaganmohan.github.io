@@ -33,14 +33,13 @@ Earlier, I earned my PhD from the [Department of Computer Science and Engineerin
 
 
  
- <!--
  My CV is available [here](https://cjaganmohan.github.io/files/CV_Jagan.pdf).
 
 Earlier, I was a postdoctoral associate in the Intelligent Systems Division at [Virginia Tech National Security Institute](https://nationalsecurity.vt.edu/research/isd.html), where I worked closely with [Dr. Erin Lanus](https://data-assurance.vt.domains). I earned my M.S. and Ph.D. in Computer Science from the [University of Texas at Arlington](http://www.uta.edu/uta/) under the advisement of [Prof. Jeff Lei](https://mentis.uta.edu/explore/profile/yu-lei).
 ## Current research
   * **Addressing the Test & Evaluation Challenges in Operational Environments (Post-deployment)**
   * **Evaluation of Large Language Models**
--->
+
 
   
 -->
