@@ -13,12 +13,25 @@ author_profile: true
      Padmaksha Roy, <u>Jaganmohan Chandrasekaran</u>, Erin Lanus, Laura Freeman, and Jeremy Warner.  
      Submitted to a Journal, currently under review -- [Preprint](https://arxiv.org/pdf/2310.04513)
 
-   * **Test & Evaluation Best Practices for Machine Learning-Enabled Systems**  
-     <u>Jaganmohan Chandrasekaran</u>, Tyler Cody, Nicola McCarthy, Erin Lanus, and Laura Freeman.  
-     Submitted to a Journal, currently under review -- [Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4862589)
+  **2025**
+  
+   * **Data Frequency Coverage Impact on AI Performance**  
+    Erin Lanus, Brian Lee, <u>Jaganmohan Chandrasekaran </u>, Laura Freeman, M S Raunak, Raghu Kacker and Rick Kuhn. Accepted to IWCT 2025
+
+  * **Evaluating Large Language Model Robustness Using Combinatorial Testing**  
+  <u>Jaganmohan Chandrasekaran </u>, Ankita Ramjibhai Patel, Erin Lanus, and Laura Freeman. Accepted to IWCT 2025
+
+   * **Can an LLM find its way around a Spreadsheet?**  
+    Cho-Ting Lee, Andrew Nesser, Shengzhe Xu, Jay Katyan, Patrick Cross, Sharanya Pathakota, Marigold Norman, John Simeone,<u>Jaganmohan Chandrasekaran<\u>, and Naren Ramakrishnan. Accepted to ICSE 2025
 
 
 **2024**
+
+   * **Key Steps to Fielding Combat Credible AI-Enabled Systems**  
+     Nicola McCarthy, Tyler Cody, <u>Jaganmohan Chandrasekaran</u>, Erin Lanus, and Laura Freeman. 
+     
+   * **Testing Machine Learning: Best Practices for the Lifecycle**  
+     <u>Jaganmohan Chandrasekaran</u>, Tyler Cody, Nicola McCarthy, Erin Lanus, and Laura Freeman.  In 2024 Naval Engineers Journal -- **ITEA 2024 Publications Award**
 
    * **Leveraging Combinatorial Coverage in the Machine Learning Product Lifecycle**   
      <u>Jaganmohan Chandrasekaran</u>, Erin Lanus, Tyler Cody, Laura Freeman, Raghu Kacker, M S Raunak, and D. Richard Kuhn.  
