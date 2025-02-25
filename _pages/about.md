@@ -16,9 +16,6 @@ My research interests are **at the intersection of Software Engineering and Arti
 
 Prior to my current appointment, I was a postdoctoral associate at Virginia Tech. I earned my M.S. and Ph.D. in Computer Science from the [University of Texas at Arlington](http://www.uta.edu/uta/) under the advisement of [Prof. Jeff Lei](https://mentis.uta.edu/explore/profile/yu-lei).
 
-More information about my work experience, publications and academic service can be found in my [CV](https://cjaganmohan.github.io/files/CV_Jagan.pdf)
-
-
 Thank you for visiting my academic corner on the web. I am always eager to connect; Whether you are curious about my research, have suggestions or ideas for collaboration, or simply wish to discuss common interests, feel free to reach out using the provided contact information.
 
 
