@@ -22,7 +22,7 @@ author_profile: true
   <u>Jaganmohan Chandrasekaran</u>, Ankita Ramjibhai Patel, Erin Lanus, and Laura Freeman. Accepted to IWCT 2025
 
    * **Can an LLM find its way around a Spreadsheet?**  
-    Cho-Ting Lee, Andrew Nesser, Shengzhe Xu, Jay Katyan, Patrick Cross, Sharanya Pathakota, Marigold Norman, John Simeone,<u>Jaganmohan Chandrasekaran</u>, and Naren Ramakrishnan. Accepted to ICSE 2025
+    Cho-Ting Lee, Andrew Nesser, Shengzhe Xu, Jay Katyan, Patrick Cross, Sharanya Pathakota, Marigold Norman, John Simeone, <u>Jaganmohan Chandrasekaran</u>, and Naren Ramakrishnan. Accepted to ICSE 2025
 
 
 **2024**
@@ -60,10 +60,10 @@ author_profile: true
     Sunny Shree, <u>Jaganmohan Chandrasekaran</u> , Yu Lei, D. Richard Kuhn, and Raghu Kacker -- [Article](https://ieeexplore.ieee.org/document/9898123).  
     In 2022 IEEE International Conference On Artificial Intelligence Testing (AITest), IEEE.
   * **Enabling AI Adoption through Assurance**, (Tutorial),  
-    <u>Jaganmohan Chandrasekaran</u> , Feras A. Batarseh, Laura Freeman, D. Richard Kuhn, M S Raunak, and Raghu N. Kacker  
+    <u>Jaganmohan Chandrasekaran</u>, Feras A. Batarseh, Laura Freeman, D. Richard Kuhn, M S Raunak, and Raghu N. Kacker  
     In 2022 Florida Artificial Intelligence Research Society. -- [Preprint](https://journals.flvc.org/FLAIRS/article/view/130726/133963)
   * **A Combinatorial Approach to Fairness Testing of Machine Learning Models**  
-    Ankita Ramjibhai Patel,<u>Jaganmohan Chandrasekaran</u>, Yu Lei, Raghu Kacker, and D. Richard Kuhn.  
+    Ankita Ramjibhai Patel, <u>Jaganmohan Chandrasekaran</u>, Yu Lei, Raghu Kacker, and D. Richard Kuhn.  
     In 2022 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW). -- [Preprint](https://cjaganmohan.github.io/files/A_Combinatorial_Approach_to_Fairness_Testing_of-Machine_Learning_Models.pdf)
 
 ***2021***
