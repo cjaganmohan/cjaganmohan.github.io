@@ -31,7 +31,7 @@ author_profile: true
      Nicola McCarthy, Tyler Cody, <u>Jaganmohan Chandrasekaran</u>, Erin Lanus, and Laura Freeman. In 2024 Naval Engineers Journal -- [Article](https://bonotom.com/flipbook/2096/#2096/238)
      
    * **Testing Machine Learning: Best Practices for the Lifecycle**  
-     <u>Jaganmohan Chandrasekaran</u>, Tyler Cody, Nicola McCarthy, Erin Lanus, and Laura Freeman.  In 2024 Naval Engineers Journal -- [Article](https://bonotom.com/flipbook/2096/#2096/250) **[ITEA 2024 Publications Award](https://itea.org/journals/volume-45-4/best-2024-research-articles-in-test-and-evaluation/)**
+     <u>Jaganmohan Chandrasekaran</u>, Tyler Cody, Nicola McCarthy, Erin Lanus, and Laura Freeman.  In 2024 Naval Engineers Journal -- [Article](https://bonotom.com/flipbook/2096/#2096/250) -- **[ITEA 2024 Publications Award](https://itea.org/journals/volume-45-4/best-2024-research-articles-in-test-and-evaluation/)**
 
    * **Leveraging Combinatorial Coverage in the Machine Learning Product Lifecycle**   
      <u>Jaganmohan Chandrasekaran</u>, Erin Lanus, Tyler Cody, Laura Freeman, Raghu Kacker, M S Raunak, and D. Richard Kuhn.  
