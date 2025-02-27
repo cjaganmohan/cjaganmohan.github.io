@@ -6,12 +6,12 @@ author_profile: true
 ---
 **Manuscripts Under Review / Preparation**
    * **A Combinatorial Approach to Synthetic Data Generation**  
-     Krishna Khadka,<u>Jaganmohan Chandrasekaran</u>, Yu Lei, Raghu Kacker and D. Richard Kuhn.  
+     Krishna Khadka, <u>Jaganmohan Chandrasekaran</u>, Yu Lei, Raghu Kacker and D. Richard Kuhn.  
      Submitted to a Journal, currently under review
 
    * **A Survey of Data Security: Practices from Cybersecurity and Challenges of Machine Learning**  
      Padmaksha Roy, <u>Jaganmohan Chandrasekaran</u>, Erin Lanus, Laura Freeman, and Jeremy Warner.  
-     Submitted to a Journal, currently under review -- [Preprint](https://arxiv.org/pdf/2310.04513)
+     Submitted to a Journal, currently under revision -- [Preprint](https://arxiv.org/pdf/2310.04513)
 
   **2025**
   
@@ -19,7 +19,7 @@ author_profile: true
     Erin Lanus, Brian Lee, <u>Jaganmohan Chandrasekaran </u>, Laura Freeman, M S Raunak, Raghu Kacker and Rick Kuhn. Accepted to IWCT 2025
 
   * **Evaluating Large Language Model Robustness Using Combinatorial Testing**  
-  <u>Jaganmohan Chandrasekaran </u>, Ankita Ramjibhai Patel, Erin Lanus, and Laura Freeman. Accepted to IWCT 2025
+  <u>Jaganmohan Chandrasekaran</u>, Ankita Ramjibhai Patel, Erin Lanus, and Laura Freeman. Accepted to IWCT 2025
 
    * **Can an LLM find its way around a Spreadsheet?**  
     Cho-Ting Lee, Andrew Nesser, Shengzhe Xu, Jay Katyan, Patrick Cross, Sharanya Pathakota, Marigold Norman, John Simeone,<u>Jaganmohan Chandrasekaran</u>, and Naren Ramakrishnan. Accepted to ICSE 2025
@@ -28,18 +28,18 @@ author_profile: true
 **2024**
 
    * **Key Steps to Fielding Combat Credible AI-Enabled Systems**  
-     Nicola McCarthy, Tyler Cody, <u>Jaganmohan Chandrasekaran</u>, Erin Lanus, and Laura Freeman. 
+     Nicola McCarthy, Tyler Cody, <u>Jaganmohan Chandrasekaran</u>, Erin Lanus, and Laura Freeman. In 2024 Naval Engineers Journal -- [Article](https://bonotom.com/flipbook/2096/#2096/238)
      
    * **Testing Machine Learning: Best Practices for the Lifecycle**  
-     <u>Jaganmohan Chandrasekaran</u>, Tyler Cody, Nicola McCarthy, Erin Lanus, and Laura Freeman.  In 2024 Naval Engineers Journal -- **ITEA 2024 Publications Award**
+     <u>Jaganmohan Chandrasekaran</u>, Tyler Cody, Nicola McCarthy, Erin Lanus, and Laura Freeman.  In 2024 Naval Engineers Journal -- [Article](https://bonotom.com/flipbook/2096/#2096/250) **[ITEA 2024 Publications Award](https://itea.org/journals/volume-45-4/best-2024-research-articles-in-test-and-evaluation/)**
 
    * **Leveraging Combinatorial Coverage in the Machine Learning Product Lifecycle**   
      <u>Jaganmohan Chandrasekaran</u>, Erin Lanus, Tyler Cody, Laura Freeman, Raghu Kacker, M S Raunak, and D. Richard Kuhn.  
-     In 2024 IEEE Computer.
+     In 2024 IEEE Computer. -- [Preprint](https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=936815)
      
   * **Assured Autonomy through Combinatorial Methods**  
      D.Richard Kuhn, M S Raunak, Raghu N.Kacker, <u>Jaganmohan Chandrasekaran</u>, Erin Lanus, Tyler Cody, and Laura Freeman  
-     In 2024 IEEE Computer -- [Article](https://ieeexplore.ieee.org/abstract/document/10517690)
+     In 2024 IEEE Computer -- [Preprint](https://csrc.nist.gov/csrc/media/Projects/automated-combinatorial-testing-for-software/documents/ieee-com-may24-preprint.pdf)
    
    * **A Combinatorial Approach to Hyperparameter Optimization**   
    Krishna Khadka, <u>Jaganmohan Chandrasekaran</u>, Yu Lei, Raghu Kacker and D. Richard Kuhn.  
@@ -49,7 +49,7 @@ author_profile: true
  
  * **Synthetic Data Generation Using Combinatorial Testing and Variational Autoencoder**   
    Krishna Khadka, <u>Jaganmohan Chandrasekaran</u>, Yu Lei, Raghu Kacker and D. Richard Kuhn.  
-   In 2023 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW).
+   In 2023 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW) -- [Preprint](https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=936332).
  
 
 ***2022***
@@ -57,7 +57,7 @@ author_profile: true
     Chelsea Wang, <u>Jaganmohan Chandrasekaran</u>, Flora Haberkorn, Yan Don, Munisamy Gopinath, and Feras A. Batarseh.  
     In 2022 IEEE 29th Annual Software Technology Conference (STC), IEEE.
   * **DeltaExplainer: A Software Debugging Approach to Generating Counterfactual Explanations**  
-    Sunny Shree, <u>Jaganmohan Chandrasekaran</u> , Yu Lei, D. Richard Kuhn, and Raghu Kacker.  
+    Sunny Shree, <u>Jaganmohan Chandrasekaran</u> , Yu Lei, D. Richard Kuhn, and Raghu Kacker -- [Article](https://ieeexplore.ieee.org/document/9898123).  
     In 2022 IEEE International Conference On Artificial Intelligence Testing (AITest), IEEE.
   * **Enabling AI Adoption through Assurance**, (Tutorial),  
     <u>Jaganmohan Chandrasekaran</u> , Feras A. Batarseh, Laura Freeman, D. Richard Kuhn, M S Raunak, and Raghu N. Kacker  
@@ -95,9 +95,9 @@ author_profile: true
 ***2016***
 * **Evaluating the Effectiveness of BEN in Localizing Different Types of Software Fault**  
   <u>Jaganmohan Chandrasekaran</u> , Laleh Sh Ghandehari, Yu Lei, Raghu Kacker, and D. Richard Kuhn.  
-  In 2016 International Conference on Software Testing, Verification and Validation Workshops (ICSTW) -- [Slides](https://cjaganmohan.github.io/files/BEN-effectiveness-IWCT2016.pdf)
+  In 2016 International Conference on Software Testing, Verification and Validation Workshops (ICSTW) -- [Article](https://ieeexplore.ieee.org/document/7528942)
 
 ***2015***
 * **BEN: A combinatorial testing-based fault localization tool**.  
   Laleh Sh Ghandehari, <u>Jaganmohan Chandrasekaran</u>, Yu Lei, Raghu Kacker, and D. Richard Kuhn.  
-  In 2015 International Conference on Software Testing, Verification and Validation Workshops (ICSTW).
+  In 2015 International Conference on Software Testing, Verification and Validation Workshops (ICSTW) -- [Article](https://ieeexplore.ieee.org/document/7107446)
