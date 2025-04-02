@@ -16,7 +16,7 @@ author_profile: true
   **2025**
   
    * **Data Frequency Coverage Impact on AI Performance**  
-    Erin Lanus, Brian Lee, <u>Jaganmohan Chandrasekaran </u>, Laura Freeman, M S Raunak, Raghu Kacker and Rick Kuhn. Accepted to IWCT 2025 - [Preprint] (https://data-assurance.vt.domains/papers/lanus2025data.pdf)
+    Erin Lanus, Brian Lee, <u>Jaganmohan Chandrasekaran </u>, Laura Freeman, M S Raunak, Raghu Kacker and Rick Kuhn. Accepted to IWCT 2025 - [Preprint](https://data-assurance.vt.domains/papers/lanus2025data.pdf)
 
   * **Evaluating Large Language Model Robustness Using Combinatorial Testing**  
   <u>Jaganmohan Chandrasekaran</u>, Ankita Ramjibhai Patel, Erin Lanus, and Laura Freeman. Accepted to IWCT 2025 - [Preprint](https://cjaganmohan.github.io/files/Evaluating_Large_Language_Model_Robustness_using_Combinatorial_Testing-preprint.pdf)
