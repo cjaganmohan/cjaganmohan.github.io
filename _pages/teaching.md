@@ -4,7 +4,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# Teaching
 
 ## Experience
 Over 5 years of teaching experience across 15+ semesters as a Graduate Teaching Assistant, working with 400+ students at both undergraduate and graduate levels.
