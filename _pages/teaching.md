@@ -6,7 +6,6 @@ author_profile: true
 
 
 
-## Overview
 Over **5 years** of teaching experience across **15+ semesters** as a Graduate Teaching Assistant, working with **400+ students** at both undergraduate and graduate levels. 
 
 **Outstanding Graduate Teaching Assistant (Finalist)** - 2018  
