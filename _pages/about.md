@@ -8,21 +8,23 @@ redirect_from:
 ---
 
 
-I am a research assistant professor in the [Sanghani Center for Artificial Intelligence and Data Analytics](https://sanghani.cs.vt.edu) at Virginia Tech. I am motivated to ***address the engineering challenges in developing and deploying AI‐enabled software system*** in the real world.  Through my research, I aim to enable practitioners to develop, deploy and maintain trustworthy AI/ML systems.
+## About me
 
-My research interests are **at the intersection of Software Engineering and Artificial Intelligence**, focusing on the reliability and trustworthiness of AI-enabled software systems.  My current work focuses on developing approaches to address the multifaceted challenges in testing AI-enabled software systems across its lifecycle. More information about my work experience, publications and academic service can be found in my [CV](https://cjaganmohan.github.io/files/CV_Jagan.pdf)
+Hi! I'm a research assistant professor in the [Sanghani Center for Artificial Intelligence and Data Analytics](https://sanghani.cs.vt.edu) at Virginia Tech. My background is in Computer Science, and I work at the intersection of software engineering and artificial intelligence.  Prior to my current appointment, I was a postdoctoral associate at Virginia Tech. I earned my M.S. and Ph.D. in Computer Science from the [University of Texas at Arlington](http://www.uta.edu/uta/) under the advisement of [Prof. Jeff Lei](https://mentis.uta.edu/explore/profile/yu-lei).
 
 
-Prior to my current appointment, I was a postdoctoral associate at Virginia Tech. I earned my M.S. and Ph.D. in Computer Science from the [University of Texas at Arlington](http://www.uta.edu/uta/) under the advisement of [Prof. Jeff Lei](https://mentis.uta.edu/explore/profile/yu-lei).
+The question that motivates my research : ***How do we systematically test and evaluate AI systems to ensure they perform reliably in the real-world?*** I study the multifaceted challenges in testing AI-enabled software systems across its lifecycle. Through my research, I aim to enable practitioners to develop, deploy and maintain trustworthy AI/ML systems. More information about my work experience, publications and academic service can be found in my [CV](https://cjaganmohan.github.io/files/CV_Jagan.pdf)
+
 
 Thank you for visiting my academic corner on the web. I am always eager to connect; Whether you are curious about my research, have suggestions or ideas for collaboration, or simply wish to discuss common interests, feel free to reach out using the provided contact information.
-
 
 
 <!--
 Hi There! I am ***Jagan***. I am postdoctoral associate at Virginia Tech. I am working with Dr.Erin Lanus and my research focuses on AI Assurance.
 
 Earlier, I earned my PhD from the [Department of Computer Science and Engineering](http://cse.uta.edu/) at the [University of Texas at Arlington](http://www.uta.edu/uta/). My advisor is [Prof. Jeff Lei](https://mentis.uta.edu/explore/profile/yu-lei). Prior to that, I earned my *M.S. in Computer Science* from the University of Texas at Arlington in 2015, and my B.Tech degree in Information Technology in 2008. Before joining the graduate school, I was working as an Analyst Programmer from 2009 to 2012. You can find my CV [here](https://cjaganmohan.github.io/files/Simple_CV_Jagan.pdf).
+
+ I am motivated to ***address the engineering challenges in developing and deploying AI‐enabled software system*** in the real world.  Through my research, I aim to enable practitioners to develop, deploy and maintain trustworthy AI/ML systems.
 
 
 ## Research Interests
