@@ -14,14 +14,20 @@ author_profile: true
 
   **2025**
   
+   * **CODEX: Testing Machine Learning with the Coverage of Data Explorer Tool**
+     Erin Lanus, Brian Lee, Dylan Steburg, <u>Jaganmohan Chandrasekaran</u>, and Laura Freeman. Accepted to IEEE AITest 2025.
+   
+   * **Test and Evaluation of Large Language Models to Support Informed Government Acquisition**
+     <u>Jaganmohan Chandrasekaran</u>, Brian Mayer, Heather Frase, Erin Lanus, Patrick Butler, Stephen Adams, Jared Gregersen, Naren Ramakrishnan, and Laura Freeman. In 22nd Annual Acquisition Research Symposium and Innovation Summit, May 2025 - [Article](https://dair.nps.edu/bitstream/123456789/5389/1/SYM-AM-25-313.pdf)
+   
    * **Data Frequency Coverage Impact on AI Performance**  
-    Erin Lanus, Brian Lee, <u>Jaganmohan Chandrasekaran </u>, Laura Freeman, M S Raunak, Raghu Kacker and Rick Kuhn. Accepted to IWCT 2025 - [Preprint](https://data-assurance.vt.domains/papers/lanus2025data.pdf)
+    Erin Lanus, Brian Lee, <u>Jaganmohan Chandrasekaran </u>, Laura Freeman, M S Raunak, Raghu Kacker and Rick Kuhn. In 2025 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW), Naples, Italy, 2025, pp. 258-267 - [Preprint](https://data-assurance.vt.domains/papers/lanus2025data.pdf)
 
   * **Evaluating Large Language Model Robustness Using Combinatorial Testing**  
-  <u>Jaganmohan Chandrasekaran</u>, Ankita Ramjibhai Patel, Erin Lanus, and Laura Freeman. Accepted to IWCT 2025 - [Preprint](https://cjaganmohan.github.io/files/Evaluating_Large_Language_Model_Robustness_using_Combinatorial_Testing-preprint.pdf)
+  <u>Jaganmohan Chandrasekaran</u>, Ankita Ramjibhai Patel, Erin Lanus, and Laura Freeman. In 2025 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW), Naples, Italy, 2025, pp. 300-309 - [Preprint](https://cjaganmohan.github.io/files/Evaluating_Large_Language_Model_Robustness_using_Combinatorial_Testing-preprint.pdf)
 
    * **Can an LLM find its way around a Spreadsheet?**  
-    Cho-Ting Lee, Andrew Nesser, Shengzhe Xu, Jay Katyan, Patrick Cross, Sharanya Pathakota, Marigold Norman, John Simeone, <u>Jaganmohan Chandrasekaran</u>, and Naren Ramakrishnan. Accepted to ICSE 2025
+    Cho-Ting Lee, Andrew Nesser, Shengzhe Xu, Jay Katyan, Patrick Cross, Sharanya Pathakota, Marigold Norman, John Simeone, <u>Jaganmohan Chandrasekaran</u>, and Naren Ramakrishnan. In 2025 IEEE/ACM 47th International Conference on Software Engineering (ICSE), Ottawa, ON, Canada, 2025, pp. 294-306
 
 
 **2024**
