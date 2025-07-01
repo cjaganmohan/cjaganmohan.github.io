@@ -5,6 +5,27 @@ permalink: /teaching/
 author_profile: true
 ---
 
+# Teaching
+
+## Experience
+Over 5 years of teaching experience across 15+ semesters as a Graduate Teaching Assistant, working with 400+ students at both undergraduate and graduate levels.
+
+## Awards & Recognition
+**Outstanding Graduate Teaching Assistant (Finalist)** - 2018  
+*Selected as 1 of 2 finalists from 75+ Graduate Teaching Assistants* - Department of Computer Science, UT Arlington  
+
+## Areas of Specialization
+- Software Testing
+- Software Engineering
+- Software Design Patterns
+- AI Assurance
+- Test and Evaluation of AI Systems
+
+## Teaching Philosophy
+My role as an educator is successful when I empower students to become independent, critical thinkers through inclusive, research-informed teaching. I believe teaching and research are complementary — insights from my research enable me to present concepts from multiple perspectives, while student interactions deepen my understanding of fundamental principles. I am committed to creating supportive learning environments where collaboration, respect, and open communication thrive, ensuring every student has the opportunity to succeed through personalized support in collaborative learning environments.
+
+
+
 ## Teaching Experience
 * **Invited Guest Lectures**
   * CMDA 4984: Data Security, Virginia Tech, Spring 2024  
@@ -26,6 +47,7 @@ author_profile: true
 
 ## Service
 * **Technical Program Committee & Reviewer**
+   * International Conference on Advances in System Testing and Validation Lifecycle (VALID) - 2025, 2024
    * IEEE International Conference on AI Engineering (CAIN) - 2024
    * International Conference on Advances in System Testing and Validation Lifecycle - 2024
    * IEEE International Conference on Software Testing, Verification, and Validation (ICST) - Poster Track - 2025, 2024, 2023
@@ -36,13 +58,15 @@ author_profile: true
    * IEEE/ACM International Conference on Automated Software Engineering (ASE) - Sub Reviewer -  2020
 
 * **Organizing Committee**
+  * Co-organizer - A one-day course on Combinatorial Testing for Artificial Intelligence-Enabled Systems (CT4AIES) at DATAWorks, 2025
   * Co-organizer - Inaugural one-day Workshop on Combinatorial Testing for Artificial Intelligence-Enabled Systems (CT4AIES) at Virginia Tech, 2024
   * Publicity Chair -  IEEE International Conference on Software Testing, Verification, and Validation (ICST), 2023
     
 * **Reviewer**
+  * IEEE Computer - 2025
   * IEEE Transactions on Software Engineering - 2025
   * IEEE Reliability - 2024
-  * IEEE Computer - 2024
+  * IEEE Computer - 2025, 2024
   * Journal Reviewer - Software Quality Journal - 2023
-  * Research Grant Proposal Reviewer - Commonwealth Cyber Initiative (CCI) - 2022
+  * Research Grant Proposal Reviewer - Commonwealth Cyber Initiative (CCI) - 2022, CCI - Central Virginia Node - 2025 
  
