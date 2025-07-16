@@ -5,6 +5,4 @@ permalink: /contact/
 author_profile: true
 ---
 
-Please contact me at jaganmohan [dot] chandrasekaran [at] mavs [dot] uta [dot] edu.
-
-I can also be reached at jagan [at] vt [dot] edu
+Please contact me at jagan [at] vt [dot] edu
