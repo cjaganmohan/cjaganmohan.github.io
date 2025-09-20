@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-Hi! I'm a research assistant professor in the [Sanghani Center for Artificial Intelligence and Data Analytics](https://sanghani.cs.vt.edu) at Virginia Tech. My background is in Computer Science, and I work at the intersection of software engineering and artificial intelligence.  Prior to my current appointment, I was a postdoctoral associate at Virginia Tech. I earned my M.S. and Ph.D. in Computer Science from the [University of Texas at Arlington](http://www.uta.edu/uta/) under the advisement of [Prof. Jeff Lei](https://mentis.uta.edu/explore/profile/yu-lei).
+I'm a research assistant professor in the [Sanghani Center for Artificial Intelligence and Data Analytics](https://sanghani.cs.vt.edu) at Virginia Tech. My background is in Computer Science, and I work at the intersection of software engineering and artificial intelligence. Prior to my current appointment, I was a postdoctoral associate at Virginia Tech. I earned my M.S. and Ph.D. in Computer Science from the [University of Texas at Arlington](http://www.uta.edu/uta/) under the advisement of [Prof. Jeff Lei](https://mentis.uta.edu/explore/profile/yu-lei).
 
 
 ## Research Interests
@@ -37,21 +37,23 @@ Research investigates how Large Language Models can enhance and augment traditio
 
 ## Explore My Work
 
-→ **[Detailed Research Program & Contributions](research.html)**  
-→ **[Publications](publications.html)**  
+→ **[Detailed Research Program & Contributions](https://cjaganmohan.github.io/research.html)**  
+→ **[Publications](https://cjaganmohan.github.io/publications.html)**  
 → **[CV](https://cjaganmohan.github.io/files/CV_Jagan.pdf)**
 
 ---
 
-*I am always eager to connect with colleagues, collaborators, and those interested in AI system assurance. Feel free to reach out for research discussions, collaboration opportunities, or questions about my work.*
+*I am always eager to connect with colleagues, collaborators, and those interested in AI system assurance. Feel free to [reach out](https://cjaganmohan.github.io/contact/) for research discussions, collaboration opportunities, or questions about my work.*
 
+
+<!--
 More information about my work experience, publications and academic service can be found in my [CV](https://cjaganmohan.github.io/files/CV_Jagan.pdf)
 
 
 Thank you for visiting my academic corner on the web. I am always eager to connect; Whether you are curious about my research, have suggestions or ideas for collaboration, or simply wish to discuss common interests, feel free to reach out using the provided contact information.
 
 
-<!--
+
 Hi There! I am ***Jagan***. I am postdoctoral associate at Virginia Tech. I am working with Dr.Erin Lanus and my research focuses on AI Assurance.
 
 Earlier, I earned my PhD from the [Department of Computer Science and Engineering](http://cse.uta.edu/) at the [University of Texas at Arlington](http://www.uta.edu/uta/). My advisor is [Prof. Jeff Lei](https://mentis.uta.edu/explore/profile/yu-lei). Prior to that, I earned my *M.S. in Computer Science* from the University of Texas at Arlington in 2015, and my B.Tech degree in Information Technology in 2008. Before joining the graduate school, I was working as an Analyst Programmer from 2009 to 2012. You can find my CV [here](https://cjaganmohan.github.io/files/Simple_CV_Jagan.pdf).
