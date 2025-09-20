@@ -24,7 +24,7 @@ My research develops systematic test and evaluation methodologies that ensure AI
 - **Data Testing:** Adapting traditional testing methods to assess data adequacy, test set adequacy
 - **Test Set Reduction:** Understanding the impact of sampling methods in generating test datasets
 - **Testing beyond Correctness (AI Assurance):** Explainability, Fairness, Data Security
-- **Model-Agnostic Methods** to conduct T&E from development through deployment, including test & evaluation the post-deployment phase.
+- **Model-Agnostic Methods** to conduct T&E from development through deployment, including post-deployment T&E.
 - **Current Focus: Test & Evaluation of LLMs** - Developing systematic evaluation methods, frameworks and tools for evalauting LLMs
 
   
