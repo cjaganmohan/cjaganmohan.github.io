@@ -37,8 +37,8 @@ Research investigates how Large Language Models can enhance and augment traditio
 
 ## Explore My Work
 
-→ **[Detailed Research Program & Contributions](https://cjaganmohan.github.io/research.html)**  
-→ **[Publications](https://cjaganmohan.github.io/publications.html)**  
+→ **[Detailed Research Program & Contributions](https://cjaganmohan.github.io/research)**  
+→ **[Publications](https://cjaganmohan.github.io/publications)**  
 → **[CV](https://cjaganmohan.github.io/files/CV_Jagan.pdf)**
 
 ---
