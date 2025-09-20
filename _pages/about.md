@@ -8,12 +8,44 @@ redirect_from:
 ---
 
 
-## About me
+
 
 Hi! I'm a research assistant professor in the [Sanghani Center for Artificial Intelligence and Data Analytics](https://sanghani.cs.vt.edu) at Virginia Tech. My background is in Computer Science, and I work at the intersection of software engineering and artificial intelligence.  Prior to my current appointment, I was a postdoctoral associate at Virginia Tech. I earned my M.S. and Ph.D. in Computer Science from the [University of Texas at Arlington](http://www.uta.edu/uta/) under the advisement of [Prof. Jeff Lei](https://mentis.uta.edu/explore/profile/yu-lei).
 
 
-The question that motivates my research : ***How do we systematically test and evaluate AI systems to ensure they perform reliably in the real-world?*** I study the multifaceted challenges in testing AI-enabled software systems across its lifecycle. Through my research, I aim to enable practitioners to develop, deploy and maintain trustworthy AI/ML systems. More information about my work experience, publications and academic service can be found in my [CV](https://cjaganmohan.github.io/files/CV_Jagan.pdf)
+## Research Interests
+
+My research is at the intersection of **software engineering and artificial intelligence**. 
+
+### Software Engineering for AI
+My research develops systematic test and evaluation methodologies that ensure AI-enabled systems perform reliably in the real-world.
+
+- **Test Generation:** Test the implementations of traditional ML algorithms, pre-trained DNN models used in autonomous driving systems
+- **Data Testing:** Adapting traditional testing methods to assess data adequacy, test set adequacy
+- **Test Set Reduction:** Understanding the impact of sampling methods in generating test datasets
+- **Testing beyond Correctness (AI Assurance):** Explainability, Fairness, Data Security
+- **Model-Agnostic Methods** to conduct T&E from development through deployment, including test & evaluation the post-deployment phase.
+- **Current Focus: Test & Evaluation of LLMs** - Developing systematic evaluation methods, frameworks and tools for evalauting LLMs
+
+  
+### AI for Software Engineering
+Research investigates how Large Language Models can enhance and augment traditional software testing practices.
+
+- **LLM-Augmented Test Generation:** Using LLMs for automated test case creation and input model generation
+- **LLM-Augmented Combinatorial Testing:** Leveraging LLMs for effecient input parameter model construction
+- **Current Focus:** Adapting off-the-shelf LLMs to generate input models
+
+## Explore My Work
+
+→ **[Detailed Research Program & Contributions](research.html)**  
+→ **[Publications](publications.html)**  
+→ **[CV](https://cjaganmohan.github.io/files/CV_Jagan.pdf)**
+
+---
+
+*I am always eager to connect with colleagues, collaborators, and those interested in AI system assurance. Feel free to reach out for research discussions, collaboration opportunities, or questions about my work.*
+
+More information about my work experience, publications and academic service can be found in my [CV](https://cjaganmohan.github.io/files/CV_Jagan.pdf)
 
 
 Thank you for visiting my academic corner on the web. I am always eager to connect; Whether you are curious about my research, have suggestions or ideas for collaboration, or simply wish to discuss common interests, feel free to reach out using the provided contact information.
