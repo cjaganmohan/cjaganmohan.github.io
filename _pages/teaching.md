@@ -38,6 +38,14 @@ My role as an educator is successful when I empower students to become independe
     * TA for CSE 6329.001: ***Advanced Software Engineering (Test Automation):*** - Fall'18, Spring'19, Fall'19, Spring'20
 
 ## Service
+* **Professional Membership**
+   * Member, Association for Computing Machinery (ACM)
+
+* **Policy Engagement**
+  * Contributor, Working Group # 3 - Capability Evaluations, The Center for AI Standards and Innovation, NIST, 2024 - Current 
+  * Invited Panelist - Designing Autonomous/AI/ML Systems for Assurance, Second IEEE International Workshop on Workshop on Assured Autonomy, AI and Ma-
+chine Learning (WAAM), 2023 
+
 * **Technical Program Committee & Reviewer**
    * International Conference on Advances in System Testing and Validation Lifecycle (VALID) - 2025, 2024
    * IEEE International Conference on AI Engineering (CAIN) - 2024
@@ -54,11 +62,12 @@ My role as an educator is successful when I empower students to become independe
   * Co-organizer - Inaugural one-day Workshop on Combinatorial Testing for Artificial Intelligence-Enabled Systems (CT4AIES) at Virginia Tech, 2024
   * Publicity Chair -  IEEE International Conference on Software Testing, Verification, and Validation (ICST), 2023
     
-* **Reviewer**
-  * IEEE Computer - 2025
+* **Journal Reviewer**
   * IEEE Transactions on Software Engineering - 2025
-  * IEEE Reliability - 2024
+  * IEEE Reliability - 2025, 2024
   * IEEE Computer - 2025, 2024
-  * Journal Reviewer - Software Quality Journal - 2023
-  * Research Grant Proposal Reviewer - Commonwealth Cyber Initiative (CCI) - 2022, CCI - Central Virginia Node - 2025 
+  * Software Quality Journal - 2023
+  * Grant Proposal Reviewer
+    * Commonwealth Cyber Initiative (CCI) - 2022
+    * CCI - Central Virginia Node - 2025 
  
