@@ -1,6 +1,7 @@
 ---
 title: "Publications"
 permalink: /publications/
+layout: rollable
 author_profile: true
 ---
 **Manuscripts Under Review / Preparation**
