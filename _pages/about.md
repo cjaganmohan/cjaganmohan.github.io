@@ -21,10 +21,10 @@ My research is at the intersection of **software engineering and artificial inte
 My research develops systematic test and evaluation methodologies that ensure AI-enabled systems perform reliably in the real-world.
 
 - **Test Generation:** Test the implementations of traditional ML algorithms, pre-trained DNN models used in autonomous driving systems
-- **Data Testing:** Adapting traditional testing methods to assess data adequacy, test set adequacy
 - **Test Set Reduction:** Understanding the impact of sampling methods in generating test datasets
 - **Testing beyond Correctness (AI Assurance):** Explainability, Fairness, Data Security
-- **Model-Agnostic Methods** to conduct T&E from development through deployment, including post-deployment T&E.
+- **Model Agnostic** methods to perform test & evaluation (T&E) from development through deployment, including post-deployment T&E.
+- **Data Testing:** Adapting a traditional testing technique to assess data adequacy, test set adequacy
 - **Current Focus: Test & Evaluation of LLMs** - Developing systematic evaluation methods, frameworks and tools for evalauting LLMs
 
   
