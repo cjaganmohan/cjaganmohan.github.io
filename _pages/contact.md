@@ -5,4 +5,10 @@ permalink: /contact/
 author_profile: true
 ---
 
-Please contact me at jagan [at] vt [dot] edu or jaganmohan [dot] c [at] acm [dot]org
+Please contact me at:
+
+**Institutional E-mail:** jagan [at] vt [dot] edu
+
+**Personal E-mail:** jaganmohan [dot] c [at] acm [dot]org
+
+I typically respond within 2-3 business days.
