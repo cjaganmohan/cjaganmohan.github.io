@@ -7,8 +7,8 @@ author_profile: true
 
 Please contact me at:
 
-**Institutional E-mail:** jagan [at] vt [dot] edu
+- **Institutional E-mail:** jagan [at] vt [dot] edu
 
-**Personal E-mail:** jaganmohan [dot] c [at] acm [dot]org
+- **Personal E-mail:** jaganmohan [dot] c [at] acm [dot]org
 
 I typically respond within 2-3 business days.
