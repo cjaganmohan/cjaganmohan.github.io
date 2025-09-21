@@ -39,3 +39,23 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Enable scroll snapping on the main container */
+html {
+  scroll-snap-type: y mandatory;
+  scroll-behavior: smooth;
+}
+
+/* Make each main section snap */
+.page__content section,
+.page__hero,
+.archive {
+  scroll-snap-align: start;
+  min-height: 100vh;
+  padding-top: 2rem;
+}
+
+/* Smooth transitions for content */
+.page__content {
+  transition: transform 0.3s ease-in-out;
+}
