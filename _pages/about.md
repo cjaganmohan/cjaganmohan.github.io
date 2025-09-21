@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I'm a research assistant professor in the [Sanghani Center for Artificial Intelligence and Data Analytics](https://sanghani.cs.vt.edu) at Virginia Tech. My background is in Computer Science, and I work at the intersection of software engineering and artificial intelligence. Prior to my current appointment, I was a postdoctoral associate at Virginia Tech. I earned my M.S. and Ph.D. in Computer Science from the [University of Texas at Arlington](http://www.uta.edu/uta/) under the advisement of [Prof. Jeff Lei](https://mentis.uta.edu/explore/profile/yu-lei).
+I'm a Research Assistant Professor in the [Sanghani Center for Artificial Intelligence and Data Analytics](https://sanghani.cs.vt.edu) at Virginia Tech. My background is in Computer Science, and I work at the intersection of software engineering and artificial intelligence. Prior to my current appointment, I was a postdoctoral associate at Virginia Tech. I earned my M.S. and Ph.D. in Computer Science from the [University of Texas at Arlington](http://www.uta.edu/uta/) under the advisement of [Prof. Jeff Lei](https://mentis.uta.edu/explore/profile/yu-lei).
 
 
 ## Research Interests
