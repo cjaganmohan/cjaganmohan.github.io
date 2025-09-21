@@ -1,3 +1,10 @@
+---
+title: "Service"
+permalink: /service/
+author_profile: true
+---
+
+
 * **Professional Membership**
    * Member, Association for Computing Machinery (ACM)
 
