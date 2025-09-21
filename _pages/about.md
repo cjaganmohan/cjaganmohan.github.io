@@ -2,6 +2,7 @@
 permalink: /
 excerpt: "About me"
 author_profile: true
+layout: rollable
 redirect_from: 
   - /about/
   - /about.html
