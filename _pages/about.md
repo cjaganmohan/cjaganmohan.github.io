@@ -15,24 +15,25 @@ I'm a Research Assistant Professor in the [Sanghani Center for Artificial Intell
 
 ## Research Interests
 
-My research is at the intersection of **software engineering and artificial intelligence**. 
+My research is at the intersection of **software engineering and artificial intelligence**. Over the past decade, my work has focused on addressing the multi-faceted challenges in testing AI-enabled systems across its lifecycle. The question that motivates my research is: ***How do we systematically test and evaluate AI systems to ensure they perform reliably in the real-world?*** 
+
 
 ### Software Engineering for AI
-My research develops systematic test and evaluation methodologies that ensure AI-enabled systems perform reliably in the real-world.
+Developing systematic test and evaluation methodologies that ensure AI-enabled systems perform reliably in the real-world. My work spans test and evaluation of machine learning algorithms, deep neural network models, and large language models, developing test methods and frameworks that address the unique challenges each technology presents.
 
 - **Test Generation:** Test the implementations of traditional ML algorithms, pre-trained DNN models used in autonomous driving systems
 - **Test Set Reduction:** Understanding the impact of sampling methods in generating test datasets
 - **Testing beyond Correctness (AI Assurance):** Explainability, Fairness, Data Security
+- **Test Adequacy:** Methods to assess data adequacy, test set adequacy
 - **Model Agnostic** methods to perform test & evaluation (T&E) from development through deployment, including post-deployment T&E.
-- **Data Testing:** Adapting a traditional testing technique to assess data adequacy, test set adequacy
-- **Current Focus: Test & Evaluation of LLMs** - Developing systematic evaluation methods, frameworks and tools for evalauting LLMs
+- **Current Focus: Test & Evaluation of LLMs** - Developing systematic evaluation methods, frameworks and tools for evaluating LLMs
 
   
 ### AI for Software Engineering
-Research investigates how Large Language Models can enhance and augment traditional software testing practices.
+With advances in LLMs, my research also explores the complementary direction: how Large Language Models can enhance and augment traditional software testing practices.
 
 - **LLM-Augmented Test Generation:** Using LLMs for automated test case creation and input model generation
-- **LLM-Augmented Combinatorial Testing:** Leveraging LLMs for effecient input parameter model construction
+- **LLM-Augmented Combinatorial Testing:** Leveraging LLMs for efficient input parameter model construction
 - **Current Focus:** Adapting off-the-shelf LLMs to generate input models
 
 ## Explore My Work
