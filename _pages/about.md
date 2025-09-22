@@ -19,7 +19,7 @@ My research is at the intersection of **software engineering and artificial inte
 
 
 ### Software Engineering for AI
-Developing systematic test and evaluation methodologies that ensure AI-enabled systems perform reliably in the real-world. My work spans test and evaluation of machine learning algorithms, deep neural network models, and large language models, developing test methods and frameworks that address the unique challenges each technology presents.
+Developing systematic test and evaluation methodologies that ensure AI-enabled systems perform reliably in the real-world. My work spans test and evaluation of machine learning (ML) algorithms, deep neural network models (DNN), and large language models (LLMs), developing test methods and frameworks that address the unique challenges each technology presents.
 
 - **Test Generation:** Test the implementations of traditional ML algorithms, pre-trained DNN models used in autonomous driving systems
 - **Test Set Reduction:** Understanding the impact of sampling methods in generating test datasets
@@ -30,7 +30,7 @@ Developing systematic test and evaluation methodologies that ensure AI-enabled s
 
   
 ### AI for Software Engineering
-With advances in LLMs, my research also explores the complementary direction: how Large Language Models can enhance and augment traditional software testing practices.
+With advances in LLMs, my research also explores the complementary direction: how LLMs can enhance and augment traditional software testing practices.
 
 - **LLM-Augmented Test Generation:** Using LLMs for automated test case creation and input model generation
 - **LLM-Augmented Combinatorial Testing:** Leveraging LLMs for efficient input parameter model construction
