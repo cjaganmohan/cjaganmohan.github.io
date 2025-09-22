@@ -6,7 +6,7 @@ author_profile: true
 
 Thank you for your interest in my research program. This page is currently being updated with latest details about my work at the intersection of Software Engineering and AI.
 
-In the meantime, please check my [CV]([files/CV_Jagan.pdf](https://cjaganmohan.github.io/files/CV_Jagan.pdf)) for detailed information about my publications, projects, and professional activities, or feel free to [contact me](mailto:jagan@vt.edu) directly with any questions about my research.
+In the meantime, please check my [CV](https://cjaganmohan.github.io/files/CV_Jagan.pdf) for detailed information about my publications, projects, and professional activities, or feel free to [contact me](https://cjaganmohan.github.io/contact) directly with any questions about my research.
 
 **Quick Overview:**
 
