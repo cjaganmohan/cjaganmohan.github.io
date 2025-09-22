@@ -4,8 +4,16 @@ permalink: /research/
 author_profile: true
 ---
 
+Thank you for your interest in my research program. This page is currently being updated with latest details about my work at the intersection of Software Engineering and AI.
+
+In the meantime, please check my [CV]([files/CV_Jagan.pdf](https://cjaganmohan.github.io/files/CV_Jagan.pdf)) for detailed information about my publications, projects, and professional activities, or feel free to [contact me](mailto:jagan@vt.edu) directly with any questions about my research.
+
+**Quick Overview:**
 
 My research is at the intersection of software engineering and artificial intelligence. My work addresses the test and evaluation challenges in AI-enabled software systems by adapting established software testing principles and developing novel methodologies to evaluate unique characteristics of AI-enabled software systems. My work spans test and evaluation of machine learning algorithms, deep neural network models, and large language models, creating test methods and frameworks that address the challenges each technology presents. Through my research, I contribute to the development of methods, frameworks, and metrics for systematic assessment of AI-enabled software systems, enabling reliable and trustworthy AI deployment across diverse applications. Additionally, I am exploring how AI techniques can enhance traditional software testing practices, particularly through LLM-augmented test generation.
+
+
+<p align="center"><em>Updated research page coming soon.</em></p>
 
 
 
